@@ -1,0 +1,36 @@
+# Sensitive files
+.env
+*.key
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+*.log
+paper_trades.log
+nohup.out
+
+# Data files
+*.csv
+*.json
+!stats_*.json
+!trades_*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+/tmp/
+*.tmp

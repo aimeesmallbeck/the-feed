@@ -1,0 +1,8 @@
+# Aimee Voice App - Current URLs
+# Updated: Thu Mar 5 2026
+
+HTTP_PAGE=https://injuries-transmitted-lender-dollar.trycloudflare.com
+WEBSOCKET=wss://basin-stocks-instantly-offline.trycloudflare.com
+
+# Alternative HTTP (if needed):
+# HTTP_ALT=https://shore-his-found-talk.trycloudflare.com
