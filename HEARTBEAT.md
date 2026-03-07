@@ -14,6 +14,16 @@
 
 ---
 
+## Process Monitoring (Every Heartbeat)
+**Action:** Check status of running processes:
+1. **Paper trading bot** — Check if running, review recent trades
+2. **Any active scripts** — Verify they're functioning
+3. **Unusual activity** — Flag anything unexpected
+
+**Output:** Summarize highlights for Scott (trades, issues, etc.)
+
+---
+
 # Keep this file empty (or with only comments) to skip heartbeat API calls.
 
 # Add tasks below when you want the agent to check something periodically.
