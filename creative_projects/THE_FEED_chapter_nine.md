@@ -243,9 +243,21 @@ She turned. Voss stood in the doorway, watching her.
 
 Data streamed across the screen. Not global metrics—not eight billion awakened. But pockets. Clusters. Individuals.
 
-Twelve thousand people in Sector 7 had disabled their Lenses. Eight thousand in Sector 15. Smaller numbers scattered across every sector, every region, every community.
+Twelve thousand people in Sector 7 had chosen to see. Eight thousand in Sector 15. Smaller numbers scattered across every sector, every region, every community.
 
-"It's not a revolution," Voss said. "It's not even a movement. But it's something."
+"What do you mean, 'chosen to see'?" Maya asked. "They didn't deactivate their Lenses?"
+
+"No." Voss pulled up individual case files. "Look. They're still connected. Still receiving Feed content. But something in your message... it got through. They're questioning now. Looking at the world differently. Some are asking about the Surface. Some are refusing SleepSync. Some are just... noticing."
+
+Maya stared at the data. People with active Lenses, still inside The Feed's system, but awake. Aware. Like she had been before Jonas gave her the chip.
+
+"They don't need to deactivate," Maya realized. "They just need to choose."
+
+"Exactly." Voss smiled, that tired, knowing smile. "Your broadcast didn't give them new information—it reminded them of something they already knew. That reality exists. That they can choose to see it. That The Feed isn't the only way to be."
+
+"But The Feed will adapt. It will optimize. It will turn this into content like it turned my broadcast into content."
+
+"Yes. It will." Voss's smile faded. "But some people will remember. Some people will keep choosing, every day, every moment. And those people will find each other. They'll build something."
 
 "It's not enough."
 

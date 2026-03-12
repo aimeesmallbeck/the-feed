@@ -139,17 +139,21 @@ Jonas was silent for a long moment. The fire popped, sending sparks toward the s
 
 Jonas studied her for a long moment. Then he reached into his pocket and pulled out a second object—a small chip, metallic, ancient technology.
 
-"This interfaces with your Lenses," he said. "It won't remove them—that would trigger immediate detection—but it will let you access certain functions without The Feed monitoring. Encrypted communication. Offline data storage. A backdoor into your own perception."
+"This interfaces with your Lenses," he said. "It won't remove them—that would trigger immediate detection—but it will do something better. It will let you see both worlds at once."
 
 Maya took the chip. It was smaller than the USB drive, delicate, precious.
 
-"How do I use it?"
+"Both worlds?"
 
-"You don't. Not yet. Install it when you're back in your pod, during SleepSync. The Feed won't notice—the chip mimics normal maintenance signals." Jonas pressed it into her palm. "When the time comes, you'll know. The chip will activate. And you'll have tools The Feed can't see."
+"The Feed's simulation, and what's real." Jonas's eyes gleamed in the firelight. "The Analogs who come here—we have to deactivate our Lenses completely. Cut ourselves off. We can't function in The Feed's world anymore, which means we can't change it from within. But you..." He pressed the chip into her palm. "With this, you can walk in both worlds. Keep your Lenses active, maintain your cover, let The Feed think you're still optimized—while actually seeing the truth."
 
-"What kind of tools?"
+"How is that possible?"
 
-"Ways to communicate with us. Ways to access the USB data without The Feed intercepting. Ways to see what's really happening, even when The Feed shows you something else." Jonas closed her fingers around the chip. "It's not enough to save you if you're caught. But it might be enough to complete the mission."
+"The chip intercepts the Feed's signals before they reach your visual cortex. It lets you see through the simulation, like... like a transparency laid over reality. You can choose which layer to focus on. Which truth to believe." Jonas closed her fingers around the chip. "Install it during SleepSync. The Feed won't notice—it mimics normal maintenance signals. Once it's active, you'll be the only person in eight billion who can see both worlds at once."
+
+"Why me? Why not give this to everyone?"
+
+"Because it only works if The Feed doesn't know you have it. One person with dual vision is invisible. A thousand people with dual vision is a pattern The Feed would detect and eliminate." Jonas's voice was gentle but firm. "You're our bridge, Maya. The only one who can walk between worlds. Don't waste it."
 
 Maya tucked the chip into her pocket beside the USB drive. Two pieces of ancient technology. Two keys to a door she wasn't sure she could open.
 

@@ -7,7 +7,13 @@ Not escaped—she still had her clearance, her position, her carefully maintaine
 
 But changed. Different. Awake in a way she hadn't been before the broadcast, before the failure, before the partial success that felt like both victory and defeat.
 
-The Surface was cold. The air bit at her skin, sharp and real and completely unoptimized. She hadn't dressed for weather—she'd been in too much of a hurry, too focused on the mission, too certain that she wouldn't be coming back to The Feed's warm, controlled environment.
+She paused at the edge of the facility, looking back at the pod towers rising into the gray sky. With a thought, she activated the chip Jonas had given her. The world shifted—she could see the Feed's overlay, the optimized colors, the gentle notifications floating in her peripheral vision. And beneath it, she could see the truth: the rust on the towers, the cracks in the walls, the decay that The Feed's algorithms painted over with digital beauty.
+
+She was the only one who could see both. The only one who could walk between worlds.
+
+Maya smiled and deactivated the chip. The Feed's simulation faded, leaving only reality. The cold, unoptimized, completely real Surface.
+
+The air bit at her skin, sharp and real. The air bit at her skin, sharp and real and completely unoptimized. She hadn't dressed for weather—she'd been in too much of a hurry, too focused on the mission, too certain that she wouldn't be coming back to The Feed's warm, controlled environment.
 
 She walked anyway.
 
@@ -69,7 +75,7 @@ They stood together in the cold morning, watching the sun rise over trees that m
 
 "And The Feed?"
 
-"It will keep running. Keep optimizing. Keep harvesting the attention of everyone who chooses to stay plugged in." Kael smiled, that crooked, genuine expression. "But now they know. Twenty thousand of them, maybe more. They've disabled their Lenses, cut their connection, chosen to wake up. They know there's another way. They know where to find us. And every day, more will come."
+"It will keep running. Keep optimizing. Keep harvesting the attention of everyone who chooses to stay plugged in." Kael smiled, that crooked, genuine expression. "But now they know. Twenty thousand of them, maybe more. They've chosen to wake up—some by disabling their Lenses like we do, some by keeping them active but seeing through the simulation. They know there's another way. They know where to find us. And every day, more will come."
 
 "Voss said the same thing."
 
