@@ -1,5 +1,6 @@
 # THE FEED TRILOGY
 ## Style Guide & Worldbuilding Notes
+**Updated March 12, 2026 — Reflecting Volume 1 Completion**
 
 ---
 
@@ -50,7 +51,7 @@ To an optimized brain, silence isn't just boring—it's *physically uncomfortabl
 
 ### Maya's Training Arc
 
-Maya's journey to become a Physicalist should feel like *athletic training*:
+Maya's journey to become an Analog should feel like *athletic training*:
 
 **Week 1:** Can tolerate 30 seconds of silence before panic
 **Week 2:** 2 minutes, but with physical symptoms (sweating, leg bouncing)
@@ -59,7 +60,68 @@ Maya's journey to become a Physicalist should feel like *athletic training*:
 **Month 2:** 30 minutes, begins to find silence "interesting" rather than painful
 **Month 3:** Can sit for an hour, experiencing what she can only call "presence"
 
-**Key insight:** The Physicalists aren't just rejecting technology—they're *rehabilitating* atrophied neural pathways. It's physical therapy for the brain.
+**Key insight:** The Analogs aren't just rejecting technology—they're *rehabilitating* atrophied neural pathways. It's physical therapy for the brain.
+
+---
+
+## The Chip — Maya's Unique Ability
+
+### What It Does
+The chip Jonas gives Maya in Chapter 5 allows **dual vision**—the ability to see both The Feed's simulation AND reality simultaneously.
+
+### How It Works
+- Intercepts Feed signals before they reach the visual cortex
+- Creates a "transparency" effect: Feed overlay on reality
+- Maya can choose which layer to focus on
+- The Feed cannot detect it—it mimics normal maintenance signals
+
+### Why It Matters
+- Other Analogs must **fully deactivate** their Lenses (cutting them off from The Feed)
+- Maya can **walk between both worlds**—maintain her cover while seeing the truth
+- This makes her invaluable as a bridge, spy, and guide
+- It also makes her unique: there's no one else like her
+
+### Narrative Uses
+- **Tension:** Maya constantly risks discovery by using the chip
+- **Contrast:** She can compare Feed lies to reality in real-time
+- **Agency:** She can act within The Feed's system while working against it
+- **Symbolism:** She literally embodies the story's theme—choosing which reality to believe
+
+### Limitations
+- The chip doesn't make her immune to Feed manipulation—she can still be tricked if she focuses on the simulation
+- Physical danger remains real (she can be captured, extracted, killed)
+- The Feed might eventually detect patterns in her behavior even if it can't see the chip
+
+---
+
+## Awakening Without Deactivation
+
+### The Key Insight
+People don't need to disable their Lenses to wake up. Awakening is **cognitive, not technical**.
+
+### How It Works
+- The Lenses are surgical implants—permanent hardware
+- But perception is software: what people *choose* to believe
+- Maya's broadcast reminded people they had a choice
+- Some chose to see through the simulation while still connected
+
+### The Two Paths
+1. **Full Deactivation** (Analog way): Complete removal from The Feed, physical commitment, irreversible
+2. **Cognitive Awakening** (Maya's way): Keep Lenses active but choose to see the truth beneath
+
+### Why This Matters
+- It scales: 20,000 people can wake up without surgery
+- It's reversible: people can change their minds, go back and forth
+- It's dangerous: The Feed can detect behavioral changes and target the awakened
+- It's hopeful: freedom is a choice available to everyone, not just those with access to Analog surgery
+
+### The 20,000
+After Maya's broadcast in Chapter 9:
+- They haven't disabled their Lenses
+- They're still receiving Feed content
+- But they're questioning, noticing, choosing to see
+- Some will eventually deactivate; some won't
+- All are "Analogs in spirit" regardless of hardware status
 
 ### Describing the Discomfort
 
