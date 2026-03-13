@@ -78,7 +78,7 @@ In a world where humanity lives through AR glasses and AI companions, a content 
 
 ## Plot Structure
 
-### Act I: The Perfect Loop (Pages 1-75)
+### Act I: The Glitch Protocol (Pages 1-75)
 
 **Opening:** Maya's typical day—seamless, optimized, empty
 - Wakes to Companion voice: "Good morning, Maya. Your engagement metrics are up 12%"

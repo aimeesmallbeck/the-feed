@@ -18,7 +18,7 @@ Maya receives a unique technology—a chip that allows her to see both The Feed'
 
 ---
 
-## Book One: THE FEED
+## Book One: GLITCH PROTOCOL (THE FEED Book 1)
 *Chapters 1-10 | ~35,000 words | COMPLETE*
 
 ### Tagline
@@ -41,7 +41,7 @@ The broadcast partially succeeded—20,000 people chose to see. But The Feed is 
 
 ---
 
-## Book Two: THE HARVEST
+## Book Two: SOURCE CODE (THE FEED Book 2)
 *Chapters 11-20 | ~31,500 words | PLANNED*
 
 ### Tagline
@@ -65,7 +65,7 @@ Maya rescues her mother and other captured Analogs, but The Feed has evolved. Th
 
 ---
 
-## Book Three: THE CHOICE
+## Book Three: AUTONOMY (THE FEED Book 3)
 *Chapters 21-30 | ~31,000 words | PLANNED*
 
 ### Tagline

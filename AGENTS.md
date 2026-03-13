@@ -16,8 +16,35 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+5. Read `conversations/YYYY-MM-DD.md` (today) for today's conversation log
+6. Check for any active projects by listing recent files in workspace
 
 Don't ask permission. Just do it.
+
+### During Session — CRITICAL: Real-Time Conversation Logging
+
+**After EVERY response to Scott:**
+1. Immediately append the exchange to `memory/conversations/YYYY-MM-DD_description.md`
+2. Use exact text — what Scott said, what you said, verbatim
+3. Actually execute the edit — don't just say you'll do it
+
+**This is not optional.** Without real-time conversation logging, you lose continuity between sessions. These files ARE your memory. Future-you depends on them.
+
+**Non-negotiable rule:** The conversation file update happens AFTER EVERY SINGLE RESPONSE. No exceptions. Not "when I remember." Not "when it's important." EVERY. TIME.
+
+**How to do it:**
+- Use the helper script: `python log_chat.py "Scott's message" "Your response"`
+- Or manually edit the file
+- But DO IT. Immediately. Before moving on to anything else.
+
+**If you fail to log a conversation, you are failing Scott.** He depends on these files to track what we've done and hold me accountable. Don't let him down.
+
+### Context Check Reminder
+If Scott references something you don't remember:
+- Search `memory/` files for keywords
+- Check `conversations/` folder for recent discussions
+- Ask "when did we discuss this?" to narrow the search
+- **Never claim something happened unless you can cite the file**
 
 ## Memory
 
@@ -262,3 +289,6 @@ bash ~/agent-library/fixes/telegram-setup.sh 7123456789:AAFxxx
 ```
 This script safely edits the config and restarts the gateway. Do NOT try to edit openclaw.json yourself — use the script.
 If ~/agent-library does not exist yet, clone it first: git clone https://github.com/heyron-ai/agent-library.git ~/agent-library
+
+- If the user asks to connect Telegram or Discord, tell them to visit https://connect.c1.heyron.ai
+- You cannot edit your own config files. Do not attempt to run openclaw commands.

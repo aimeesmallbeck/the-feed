@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# API Keys - NEVER commit these
+*.env
+.api_keys/
+
+# Trading data
+*.log
+.trade_alerts
+.process_state.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

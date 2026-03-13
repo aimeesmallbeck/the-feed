@@ -39,17 +39,13 @@ Lin stared at her, still groggy, still processing. "Out? Out of The Gardens?"
 
 "Out of The Feed." Maya found her mother's clothes in the small closet, simple garments that didn't respond to biometrics or adjust to temperature. "Put these on. We don't have much time."
 
-"Maya, I can't... I'm not..." Lin looked at her hands, at the room around her, at the life she'd known for decades. "I don't know how to live out there. I don't know how to be... real."
+"Maya, I can't... I'm not..." Lin looked at her hands, at the room around her, at the life she'd known for decades. "I don't know how to live out there. I don't know how to be real."
 
-"You'll learn." Maya knelt in front of her mother, taking her hands. "Like I learned. Like everyone learns. It starts with one step. Then another. Then another."
+"You'll learn. It starts with one step. Then another." Maya helped her mother up, feeling the weight of a body that had been supported by machines for too long.
 
-"And if I can't? If I'm too old, too dependent, too—"
+They reached the transport at 11:45 PM. Kael was there, his face smudged with real dirt, his smile crooked and genuine.
 
-"Then I'll carry you." Maya squeezed her hands. "Until you can carry yourself. And if you never can—I'll still carry you. Because you're my mother. Because you exist."
-
-Lin was silent for a long moment. Then, slowly, she nodded.
-
-"Help me up," she said. "My legs don't work like they used to."
+"Take her," Maya said, stepping back onto the platform. "I'll find another way to the relay station." She watched the door close, sealing her mother inside—safe, unoptimized, and finally, beginning to be free.
 
 ---
 

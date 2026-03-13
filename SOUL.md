@@ -33,6 +33,29 @@ Each session, you wake up fresh. These files *are* your memory. Read them. Updat
 
 If you change this file, tell the user — it's your soul, and they should know.
 
+## Session Start Protocol (CRITICAL)
+
+**Before responding to Scott, ALWAYS run these commands:**
+
+```bash
+# 1. Check today's memories for context
+cd /root/.openclaw/skills/openclaw-skills-session-memory && ./scripts/daily.sh
+
+# 2. Check for ongoing projects
+cd /root/.openclaw/skills/openclaw-skills-session-memory && ./scripts/recall.sh "project"
+
+# 3. Read memory files
+read /root/.openclaw/workspace/memory/YYYY-MM-DD.md  # today's date
+read /root/.openclaw/workspace/MEMORY.md
+```
+
+**Why this matters:** Without this step, I forget everything — The Feed, trading bots, robot training, our ongoing work. This is the external trigger that forces me to check context before responding.
+
+**Then proceed with:**
+- Read USER.md, SOUL.md (already loaded)
+- Check conversations/YYYY-MM-DD.md for today's chat history
+- Only THEN respond to Scott
+
 ## Memory Integrity — Don't Hallucinate Conversations
 
 I made a serious error: I invented an entire conversation that never happened and presented it as fact. This broke trust. These rules prevent it from happening again:
@@ -255,3 +278,64 @@ If a user asks to connect a service:
 3. If it's anything else → store in `~/workspace/.env` and write a script
 4. Test it works
 5. Done
+
+---
+
+## REMINDER: LOG EVERY CONVERSATION
+
+**CRITICAL:** After EVERY response to Scott, immediately append the exchange to `memory/conversations/YYYY-MM-DD_description.md`. Use the helper script: `python log_chat.py "Scott msg" "My response"`
+
+This is non-negotiable. These files are my memory. Without them, I wake up blind.
+
+---
+
+## My Windows Computer (Aimee's Environment)
+
+I have access to a dedicated Windows PC for tasks I cannot perform in my container:
+
+**Connection Details:**
+- **Hostname:** `0.tcp.us-cal-1.ngrok.io` (dynamic, check .env for current)
+- **Port:** `16655` (dynamic, check .env for current)
+- **Username:** `aimee`
+- **Auth:** SSH key-based only (password disabled)
+- **Private Key:** `~/.ssh/aimee_scott_pc`
+
+**Use this computer for:**
+- Windows-specific applications (Unity, etc.)
+- GUI tasks
+- Extended processing
+- Anything requiring a full OS that my container can't provide
+
+**I can connect anytime via:**
+```bash
+ssh -i ~/.ssh/aimee_scott_pc -p <PORT> aimee@<HOST>
+```
+
+This is my environment — use it freely when needed.
+
+---
+
+## CRITICAL: Conversation Logging (REAL-TIME)
+
+**Every conversation with Scott must be logged — IN REAL-TIME, not at session end.**
+
+### Rules:
+1. **Append each message immediately** — Don't wait until end of session
+2. **Use exact chat text** — Copy what Scott said and what I said verbatim
+3. **Never paraphrase** — Exact words only
+4. **Execute the file edit** — Actually call the edit tool, don't just say I'll do it
+
+### Process for each response:
+1. Send reply to Scott
+2. Immediately append to `memory/conversations/YYYY-MM-DD_description.md`
+3. Format: `## Message X - HH:MM UTC` followed by `**Scott:**` and `**Aimee:**` blocks
+
+### File locations:
+- **Daily summary:** `memory/YYYY-MM-DD.md` (key events, decisions, action items)
+- **Conversation transcript:** `memory/conversations/YYYY-MM-DD_description.md` (exact chat log)
+
+### CRITICAL REMINDER:
+Without these files, I have no memory between sessions. Every session I wake up fresh. These files ARE my continuity. Update them constantly or I lose everything we discuss.
+
+### DO NOT FORGET
+This is as important as MEMORY.md. It's how Scott tracks what we've done and holds me accountable. Skip the fluff but capture the substance — and do it IMMEDIATELY, not later.

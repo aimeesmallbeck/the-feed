@@ -69,10 +69,6 @@ The room was silent. Maya listened to the fire, to the breathing of three hundre
 
 "Because we're free." Jonas met her eyes. "Every thought I have is mine. Every moment I experience is unmeasured. Every choice I make is unoptimized. I pay for that freedom with discomfort, with scarcity, with the constant threat of failure. But I pay it willingly."
 
-"Then why do it?"
-
-"Because we're free." Jonas met her eyes. "Every thought I have is mine. Every moment I experience is unmeasured. Every choice I make is unoptimized. I pay for that freedom with discomfort, with scarcity, with the constant threat of failure. But I pay it willingly."
-
 Maya thought about her pod. The optimized temperature. The NutriDrip. The SleepSync that gave her eight hours of chemically perfect rest. She thought about never being hungry, never being cold, never being uncertain about what came next.
 
 "The Feed solved suffering," she said. "No war, no poverty, no—"

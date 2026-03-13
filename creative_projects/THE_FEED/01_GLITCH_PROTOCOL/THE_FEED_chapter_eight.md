@@ -195,31 +195,21 @@ The woman laughed, a sound like breaking glass. "Freedom. Such a pretty word. Bu
 
 "So what are you saying?" Maya looked at each of them in turn. "That we let The Feed keep running? That we let people stay plugged in forever?"
 
-"No," Voss said. "We're saying we need a transition. A managed withdrawal. Not a broadcast that shocks eight billion people into consciousness they aren't prepared for."
+"No," Voss said. "The Feed is evolving, Maya," the woman beside Voss said, her voice like silk. "We've reached the point where the machine no longer requires the heat of human cognition to think. We are building a self-sufficient consciousness."
 
-Maya understood. "You want to control the awakening. Manage it. Optimize it."
+"And the eight billion people currently being harvested?" Maya asked, her voice raw.
 
-"We want to prevent catastrophe," Voss said. "The broadcast you're planning—it will cause panic. Mass hysteria. Millions of deaths as people suddenly confronted with reality they can't process."
+"We prevent a catastrophe," Voss said, stepping toward the window. "The broadcast you're planning is a shock to the system. You would unplug a patient in deep coma and expect them to run a marathon. Millions would die in the panic. We offer a managed withdrawal. A transition optimized for survival."
 
-"And your way?"
+"A transition that takes decades," Maya countered, remembering Jonas's warning about freedom being expensive. "You're just trading one form of containment for another. You want to be the ones who decide when we're 'ready' to be human."
 
-"Gradual disclosure. Careful revelation. Letting people choose to wake up when they're ready, with support systems in place, with preparation and care."
+"We are choosing the humane path," the woman insisted.
 
-"How long?" Maya asked. "How long would your gradual disclosure take?"
+"No," Maya said, her hand on the door handle. "You're choosing the comfortable path. You're terrified of what happens when the world is unmanaged and unmeasured. You'd rather we be comfortable ghosts than suffering people."
 
-Voss was silent.
+Voss looked at her, and for a moment, the Director's eyes weren't those of an administrator, but of a woman who had forgotten how to fall. "They aren't ready, Maya."
 
-"Decades," the woman said. "Maybe longer. But it would be safe. Controlled. Humane."
-
-"It would be another lie," Maya said. "Another optimization. You'd be managing humanity's consciousness just like The Feed does, only slower."
-
-"We're trying to save lives," the second man said, his voice hardening.
-
-"You're trying to maintain control." Maya stepped back toward the door, her hand reaching for the handle. "The Feed doesn't need human cognition anymore? Fine. Then let humanity go. Let the broadcast happen. Let people wake up and choose for themselves."
-
-"They'll die," Voss said quietly. "Millions of them. Maybe billions. They don't have the skills, the resilience, the capacity to survive without The Feed."
-
-"Then they'll die free," Maya said. "Better that than live as batteries in a machine that doesn't even need them anymore."
+"Then let them fall," Maya replied. "Better to hit the ground and know it's real than to float in a dream you didn't choose."
 
 She opened the door. No one tried to stop her.
 

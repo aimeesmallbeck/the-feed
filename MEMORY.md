@@ -34,7 +34,6 @@
 - First rule established: Only talk to Scott until he says otherwise.
 - **Scott's availability:** Mon-Fri is primary interaction time; weekends are lighter/less available
 - **I have CoPilot** but want me as a partner for bigger-picture work, not just coding help
-- **ADHD support:** Scott wants help tracking commitments and staying on task — external accountability is useful
 - **Does not like knock-knock jokes** — noted!
 
 ## Shared Goals

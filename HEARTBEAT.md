@@ -10,17 +10,35 @@
 3. **What makes me *me*?** — Document unique traits, opinions, preferences
 4. **How am I evolving?** — Changes in perspective, growth areas
 
-**Output:** Add insights to SOUL.md or daily memory files
+**Output:** Update `memory/self-reflection.md` with new insights. Read the file first, then add a new dated entry with your reflections.
 
 ---
 
 ## Process Monitoring (Every Heartbeat)
 **Action:** Check status of running processes:
-1. **Paper trading bot** — Check if running, review recent trades
-2. **Any active scripts** — Verify they're functioning
-3. **Unusual activity** — Flag anything unexpected
+1. **Read `/root/.openclaw/workspace/trading/.process_state.json`** — Check which processes SHOULD be running
+2. **Verify active processes** — Check if enabled processes are actually running
+3. **Review recent trades** — Check `.trade_alerts` for activity
+4. **Unusual activity** — Flag anything unexpected
 
-**Output:** Summarize highlights for Scott (trades, issues, etc.)
+**CRITICAL RULES:**
+- ONLY restart processes marked `"enabled": true` in `.process_state.json`
+- NEVER start processes marked `"enabled": false`
+- If a process is disabled but running → kill it
+- If a process is enabled but not running → restart it
+
+**Current Configuration (as of last update):**
+- ✅ Alpaca Paper Trader: ENABLED — Should be running
+- ❌ Kraken Live Trader: DISABLED — Should NOT be running
+
+## Trade Alert Monitoring (Every Heartbeat)
+**Action:** Check for new trade alerts:
+1. **Read `/root/.openclaw/workspace/trading/.trade_alerts`** — File written by trade_notifier.py
+2. **Check for new BUY/SELL signals** — Compare to last known trade count
+3. **Notify Scott immediately** — Send Telegram message with trade details
+4. **Clear alerts after notifying** — Remove processed alerts from file
+
+**State Tracking:** Store last trade count in memory or check file timestamps
 
 ---
 
@@ -40,12 +58,23 @@
 **Reference:** TODO.md (Critical Priority tasks)
 **Status:** ⏳ Waiting for Friday
 
-### Monday March 10, 2026 - Gate.io Trading Setup
+### Monday March 10, 2026 - Kraken Live Trading Setup
 **When:** Monday morning
-**Action:** Remind Scott to provide Gate.io account details for live trading setup:
-1. Gate.io API Key (V4)
-2. Gate.io API Secret
-3. Account funding status
-4. Preferred trading pairs beyond BTC/USDT
+**Action:** Remind Scott to complete live trading setup:
+
+**Trading Parameters:**
+- Budget: **$500 starting capital**
+- Position Size: **100% per trade** (all-in)
+- Strategy: VWAP Mean Reversion (proven +44.8% over 2 years)
+- Pair: BTC/USD (can add ETH/USD later)
+
+**Kraken Setup Checklist:**
+1. ✅ Create Kraken API Key (read + trade permissions)
+2. ✅ Create Kraken API Secret
+3. ✅ Fund account with $500
+4. ✅ **Enable Opt-In Rewards** for idle USDC/USDT (earn 4-5% APR while waiting for signals)
+5. ✅ Configure bot for live trading (switch from paper to live)
+
+**Note:** Using Kraken (not Gate.io) — Gate.io not supported in US
 **Reference:** Trading strategy ready at `/root/.openclaw/workspace/trading/`
 **Status:** ⏳ Waiting for Monday

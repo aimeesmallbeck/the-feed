@@ -4,7 +4,8 @@
 
 ---
 
-## Part One: The Perfect Loop (Chapters 1-10)
+## GLITCH PROTOCOL (THE FEED Book 1)
+### Chapters 1-10
 
 ### Chapter 1: The Tree
 **Word count target:** 3,500  

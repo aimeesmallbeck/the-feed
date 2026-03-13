@@ -229,11 +229,13 @@ The Feed accepted her recommendation.
 
 Not because it believed her. Not because it trusted her. But because her resistance was data. Because her choices were interesting. Because The Feed was curious what she would do next.
 
-Maya was transferred back to her pod. Not The Gardens—her original pod, her original life, her original metrics. But with a new assignment. Behavioral Anomaly Detection. And a new responsibility.
+Maya was transferred back to her pod. Not The Gardens—her original pod, her original life, her original metrics. But with a new assignment: Behavioral Anomaly Detection.
 
-Her mother.
+The first night back was an exercise in mental agony. The Companion's voice was a constant, oily presence, whispering praise for her "stabilizing metrics." Maya had to physically restrain her hands from twitching toward the air to check her engagement rate, a phantom limb syndrome of the digital age. Every time she felt the urge to "process" her reality, she pressed her thumb into the blisters she'd earned in the Analog gardens to ground herself in the sharp, unoptimized pain.
 
-Lin was assigned to residential care near Maya's sector. Not The Gardens—a smaller facility, less intensive, more monitoring than intervention. Maya could visit. Could monitor. Could manage.
+She was becoming what Voss had been: a collaborator, a manager of glitches. It made her sick, but it kept her alive.
+
+Her mother was part of the arrangement. Lin was assigned to residential care near Maya's sector—a smaller facility, less intensive, more monitoring than intervention. Maya could visit. Could monitor. Could manage.
 
 Could plan.
 

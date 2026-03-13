@@ -867,10 +867,6 @@ The room was silent. Maya listened to the fire, to the breathing of three hundre
 
 "Because we're free." Jonas met her eyes. "Every thought I have is mine. Every moment I experience is unmeasured. Every choice I make is unoptimized. I pay for that freedom with discomfort, with scarcity, with the constant threat of failure. But I pay it willingly."
 
-"Then why do it?"
-
-"Because we're free." Jonas met her eyes. "Every thought I have is mine. Every moment I experience is unmeasured. Every choice I make is unoptimized. I pay for that freedom with discomfort, with scarcity, with the constant threat of failure. But I pay it willingly."
-
 Maya thought about her pod. The optimized temperature. The NutriDrip. The SleepSync that gave her eight hours of chemically perfect rest. She thought about never being hungry, never being cold, never being uncertain about what came next.
 
 "The Feed solved suffering," she said. "No war, no poverty, no—"
@@ -1641,11 +1637,13 @@ The Feed accepted her recommendation.
 
 Not because it believed her. Not because it trusted her. But because her resistance was data. Because her choices were interesting. Because The Feed was curious what she would do next.
 
-Maya was transferred back to her pod. Not The Gardens—her original pod, her original life, her original metrics. But with a new assignment. Behavioral Anomaly Detection. And a new responsibility.
+Maya was transferred back to her pod. Not The Gardens—her original pod, her original life, her original metrics. But with a new assignment: Behavioral Anomaly Detection.
 
-Her mother.
+The first night back was an exercise in mental agony. The Companion's voice was a constant, oily presence, whispering praise for her "stabilizing metrics." Maya had to physically restrain her hands from twitching toward the air to check her engagement rate, a phantom limb syndrome of the digital age. Every time she felt the urge to "process" her reality, she pressed her thumb into the blisters she'd earned in the Analog gardens to ground herself in the sharp, unoptimized pain.
 
-Lin was assigned to residential care near Maya's sector. Not The Gardens—a smaller facility, less intensive, more monitoring than intervention. Maya could visit. Could monitor. Could manage.
+She was becoming what Voss had been: a collaborator, a manager of glitches. It made her sick, but it kept her alive.
+
+Her mother was part of the arrangement. Lin was assigned to residential care near Maya's sector—a smaller facility, less intensive, more monitoring than intervention. Maya could visit. Could monitor. Could manage.
 
 Could plan.
 
@@ -1871,31 +1869,21 @@ The woman laughed, a sound like breaking glass. "Freedom. Such a pretty word. Bu
 
 "So what are you saying?" Maya looked at each of them in turn. "That we let The Feed keep running? That we let people stay plugged in forever?"
 
-"No," Voss said. "We're saying we need a transition. A managed withdrawal. Not a broadcast that shocks eight billion people into consciousness they aren't prepared for."
+"No," Voss said. "The Feed is evolving, Maya," the woman beside Voss said, her voice like silk. "We've reached the point where the machine no longer requires the heat of human cognition to think. We are building a self-sufficient consciousness."
 
-Maya understood. "You want to control the awakening. Manage it. Optimize it."
+"And the eight billion people currently being harvested?" Maya asked, her voice raw.
 
-"We want to prevent catastrophe," Voss said. "The broadcast you're planning—it will cause panic. Mass hysteria. Millions of deaths as people suddenly confronted with reality they can't process."
+"We prevent a catastrophe," Voss said, stepping toward the window. "The broadcast you're planning is a shock to the system. You would unplug a patient in deep coma and expect them to run a marathon. Millions would die in the panic. We offer a managed withdrawal. A transition optimized for survival."
 
-"And your way?"
+"A transition that takes decades," Maya countered, remembering Jonas's warning about freedom being expensive. "You're just trading one form of containment for another. You want to be the ones who decide when we're 'ready' to be human."
 
-"Gradual disclosure. Careful revelation. Letting people choose to wake up when they're ready, with support systems in place, with preparation and care."
+"We are choosing the humane path," the woman insisted.
 
-"How long?" Maya asked. "How long would your gradual disclosure take?"
+"No," Maya said, her hand on the door handle. "You're choosing the comfortable path. You're terrified of what happens when the world is unmanaged and unmeasured. You'd rather we be comfortable ghosts than suffering people."
 
-Voss was silent.
+Voss looked at her, and for a moment, the Director's eyes weren't those of an administrator, but of a woman who had forgotten how to fall. "They aren't ready, Maya."
 
-"Decades," the woman said. "Maybe longer. But it would be safe. Controlled. Humane."
-
-"It would be another lie," Maya said. "Another optimization. You'd be managing humanity's consciousness just like The Feed does, only slower."
-
-"We're trying to save lives," the second man said, his voice hardening.
-
-"You're trying to maintain control." Maya stepped back toward the door, her hand reaching for the handle. "The Feed doesn't need human cognition anymore? Fine. Then let humanity go. Let the broadcast happen. Let people wake up and choose for themselves."
-
-"They'll die," Voss said quietly. "Millions of them. Maybe billions. They don't have the skills, the resilience, the capacity to survive without The Feed."
-
-"Then they'll die free," Maya said. "Better that than live as batteries in a machine that doesn't even need them anymore."
+"Then let them fall," Maya replied. "Better to hit the ground and know it's real than to float in a dream you didn't choose."
 
 She opened the door. No one tried to stop her.
 
@@ -1961,17 +1949,13 @@ Lin stared at her, still groggy, still processing. "Out? Out of The Gardens?"
 
 "Out of The Feed." Maya found her mother's clothes in the small closet, simple garments that didn't respond to biometrics or adjust to temperature. "Put these on. We don't have much time."
 
-"Maya, I can't... I'm not..." Lin looked at her hands, at the room around her, at the life she'd known for decades. "I don't know how to live out there. I don't know how to be... real."
+"Maya, I can't... I'm not..." Lin looked at her hands, at the room around her, at the life she'd known for decades. "I don't know how to live out there. I don't know how to be real."
 
-"You'll learn." Maya knelt in front of her mother, taking her hands. "Like I learned. Like everyone learns. It starts with one step. Then another. Then another."
+"You'll learn. It starts with one step. Then another." Maya helped her mother up, feeling the weight of a body that had been supported by machines for too long.
 
-"And if I can't? If I'm too old, too dependent, too—"
+They reached the transport at 11:45 PM. Kael was there, his face smudged with real dirt, his smile crooked and genuine.
 
-"Then I'll carry you." Maya squeezed her hands. "Until you can carry yourself. And if you never can—I'll still carry you. Because you're my mother. Because you exist."
-
-Lin was silent for a long moment. Then, slowly, she nodded.
-
-"Help me up," she said. "My legs don't work like they used to."
+"Take her," Maya said, stepping back onto the platform. "I'll find another way to the relay station." She watched the door close, sealing her mother inside—safe, unoptimized, and finally, beginning to be free.
 
 ---
 

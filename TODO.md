@@ -19,7 +19,8 @@ Quick filters: [High Priority](#high) | [In Progress](#in-progress) | [Backlog](
 | 2 | Generate AI images for TikTok Video 1 | ⬜ | 2026-03-04 | 5 images: Star Wars Disney theme |
 | 3 | Create TikTok account @doomscrollingedits | ⬜ | 2026-03-04 | Username confirmed |
 | 4 | Edit & post TikTok Video 1 | ⬜ | 2026-03-04 | Due Friday March 7 |
-| 5 | Gate.io API setup for live trading | ⬜ | 2026-03-04 | Scott to provide account details Monday |
+| 5 | Kraken live trading setup | ⬜ | 2026-03-04 | **Budget: $500** - 100% per trade. Enable Opt-In Rewards for idle USDC/USDT (4-5% APR). Scott to provide API credentials Monday. |
+| 6 | Create author website (www.smallbeck.com) | ⬜ | 2026-03-13 | **Required before KDP submission** |
 
 ### 🔴 In Progress
 *None*
