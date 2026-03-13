@@ -26,6 +26,14 @@ Scott Smallbeck is a technology professional and lifelong native of the Pacific 
 
 ---
 
+## Epigraph / Opening Quote
+
+> "It has robbed us of the sense of space and of the sense of touch, it has blurred every human relation and narrowed down love to a carnal act, it has paralyzed our bodies and our wills, and now it compels us to worship it. The Machine develops — but not on our lines. The Machine proceeds — but not to our goal. We only exist as the blood corpuscles that course through its arteries, and if it could work without us, it would let us die."
+
+— E.M. Forster, *The Machine Stops* (1909)
+
+---
+
 ## Notes / To Flesh Out
 
 *Add additional submission details here as we develop them:*

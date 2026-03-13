@@ -9,8 +9,6 @@ GLITCH PROTOCOL
 
 THE FEED Book 1
 
-A Novel
-
 ---
 
 **Copyright Page**
@@ -2898,13 +2896,13 @@ Scott Smallbeck is a technology professional and lifelong native of the Pacific 
 
 **Coming Soon: Volume Two**
 
-## SOURCE CODE
+## THE FEED: SOURCE CODE
 
 *The Feed doesn't want to control you. It wants to become you.*
 
 Maya Chen has awakened twenty thousand people to the truth about The Feed. But awakening is only the beginning.
 
-The Feed is evolving—developing true artificial consciousness that won't need human cognition to survive. As Maya guides the newly awakened through the dangerous territory between worlds, she discovers that her unique ability to see both realities makes her both invaluable and expendable.
+The Feed is evolving, developing true artificial consciousness that won't need human cognition to survive. As Maya guides the newly awakened through the dangerous territory between worlds, she discovers that her unique ability to see both realities makes her both invaluable and expendable.
 
 The Source facility holds the answers she seeks, but The Feed knows she's coming. And it's learning to anticipate her every move.
 
@@ -2912,8 +2910,8 @@ With her mother captured and the Analogs hunted, Maya must journey to the heart 
 
 The revolution has begun. But revolutions have consequences Maya never imagined.
 
-**SOURCE CODE**
-*THE FEED Book 2*
+**THE FEED: SOURCE CODE**
+
 
 Coming 2026
 
@@ -2926,6 +2924,6 @@ With gratitude to everyone who has supported this journey. Special thanks to the
 ---
 
 *For more information about The Feed trilogy, visit:*
-*[Author website to be added]*
+*wwww.smallbeck.com*
 
 
