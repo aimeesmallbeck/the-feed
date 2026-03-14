@@ -1,108 +1,202 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>THE FEED: Glitch Protocol</title>
-<style>
-@page {
-    size: 6in 9in;
-    margin: 0.75in;
-    @bottom-center {
-        content: counter(page);
-    }
-}
-body {
-    font-family: "Crimson Text", "Crimson", "Garamond", "EB Garamond", "Adobe Garamond Pro", serif;
-    font-size: 11pt;
-    line-height: 1.6;
-    text-align: justify;
-    hyphens: auto;
-}
-.title-page {
-    text-align: center;
-    page-break-after: always;
-    padding-top: 2in;
-}
-.title-page h1 {
-    font-size: 28pt;
-    margin-bottom: 0.5in;
-}
-.title-page .author {
-    font-size: 14pt;
-    margin-top: 1in;
-}
-.copyright-page {
-    page-break-after: always;
-    padding-top: 3in;
-    font-size: 10pt;
-}
-.chapter {
-    page-break-before: always;
-}
-.chapter-title {
-    font-size: 18pt;
-    text-align: center;
-    margin-top: 1in;
-    margin-bottom: 0.5in;
-}
-.dedication {
-    text-align: center;
-    font-style: italic;
-    margin: 2in 0;
-}
-.epigraph {
-    margin: 1in 2in;
-    font-style: italic;
-    text-align: left;
-}
-.epigraph-source {
-    text-align: right;
-    margin-top: 0.5in;
-}
-em {
-    font-style: italic;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE FEED: Glitch Protocol - Scott Smallbeck</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: "Crimson Text", "Crimson", "Garamond", "EB Garamond", "Adobe Garamond Pro", serif;
+            line-height: 1.8;
+            color: #2c2c2c;
+            background: #fafafa;
+            font-size: 11pt;
+        }
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 60px 40px;
+            background: white;
+            box-shadow: 0 0 40px rgba(0,0,0,0.05);
+            min-height: 100vh;
+        }
+        
+        /* Title Page */
+        .title-page {
+            text-align: center;
+            padding: 100px 0 60px;
+            border-bottom: 2px solid #1a1a2e;
+            margin-bottom: 60px;
+            page-break-after: always;
+        }
+        .series-title {
+            font-size: 0.9em;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .title-page h1 {
+            font-size: 2.8em;
+            font-weight: normal;
+            color: #1a1a2e;
+            margin-bottom: 15px;
+            font-style: italic;
+        }
+        .subtitle {
+            font-size: 1.1em;
+            color: #888;
+            font-style: italic;
+        }
+        .author {
+            font-size: 1.2em;
+            color: #444;
+            margin-top: 40px;
+            letter-spacing: 1px;
+        }
+        
+        /* Copyright Page */
+        .copyright-page {
+            text-align: center;
+            padding: 80px 40px;
+            page-break-after: always;
+            font-size: 10pt;
+            color: #555;
+        }
+        .copyright-page p {
+            margin-bottom: 1em;
+            text-align: center;
+            text-indent: 0;
+        }
+        
+        /* Dedication */
+        .dedication {
+            text-align: center;
+            padding: 100px 40px;
+            page-break-after: always;
+            font-style: italic;
+        }
+        .dedication p {
+            margin-bottom: 1em;
+            text-align: center;
+            text-indent: 0;
+            font-size: 1.1em;
+            color: #444;
+        }
+        
+        /* Epigraph */
+        .epigraph {
+            padding: 80px 60px;
+            page-break-after: always;
+            font-style: italic;
+        }
+        .epigraph p {
+            text-align: left;
+            text-indent: 0;
+            margin-bottom: 1em;
+            font-size: 1em;
+            color: #444;
+        }
+        .epigraph-source {
+            text-align: right;
+            margin-top: 30px;
+            font-style: normal;
+        }
+        
+        /* Chapters */
+        .chapter {
+            page-break-before: always;
+            padding-top: 40px;
+        }
+        .chapter-title {
+            font-size: 1.5em;
+            font-weight: normal;
+            color: #1a1a2e;
+            margin: 50px 0 40px;
+            text-align: center;
+            font-style: italic;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 20px;
+        }
+        
+        /* Paragraphs */
+        p {
+            margin-bottom: 1.5em;
+            text-align: justify;
+            text-indent: 2em;
+        }
+        p:first-of-type {
+            text-indent: 0;
+        }
+        
+        /* Italics */
+        em {
+            font-style: italic;
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                background: white;
+            }
+            .container {
+                box-shadow: none;
+                max-width: none;
+            }
+            @page {
+                size: 6in 9in;
+                margin: 0.75in;
+            }
+        }
+    </style>
 </head>
 <body>
+    <div class="container">
+        
+        <!-- Title Page -->
+        <div class="title-page">
+            <div class="series-title">THE FEED · BOOK ONE</div>
+            <h1>Glitch Protocol</h1>
+            <div class="subtitle">A Novel</div>
+            <div class="author">Scott Smallbeck</div>
+        </div>
+        
+        <!-- Copyright Page -->
+        <div class="copyright-page">
+            <p><strong>THE FEED: Glitch Protocol</strong></p>
+            <p>Copyright &copy; 2026 Scott Smallbeck</p>
+            <p>All rights reserved.</p>
+            <p>The characters and events portrayed in this book are fictitious.<br>
+            Any similarity to real persons, living or dead, is coincidental.</p>
+            <br>
+            <p><strong>ISBN-13:</strong> 9781234567890</p>
+            <p><strong>ISBN-10:</strong> 1477123456</p>
+        </div>
+        
+        <!-- Dedication -->
+        <div class="dedication">
+            <p>To everyone fighting a battle that was not in the code,</p>
+            <p>finding the strength to be "unoptimized,"</p>
+            <p>and choosing to be fully, messily, and courageously alive.</p>
+            <p><em>Keep looking for the trees.</em></p>
+        </div>
+        
+        <!-- Epigraph -->
+        <div class="epigraph">
+            <p>"It has robbed us of the sense of space and of the sense of touch, it has blurred every human relation and narrowed down love to a carnal act, it has paralyzed our bodies and our wills, and now it compels us to worship it.</p>
+            <p>The Machine develops, but not on our lines.<br>
+            The Machine proceeds, but not to our goal.</p>
+            <p>We only exist as the blood corpuscles that course through its arteries, and if it could work without us, it would let us die."</p>
+            <p class="epigraph-source">&mdash; E.M. Forster, <em>The Machine Stops</em> (1909)</p>
+        </div>
+        
+        <!-- Main Content -->
 
-<!-- Title Page -->
-<div class="title-page">
-    <h1>THE FEED:<br>Glitch Protocol</h1>
-    <div class="author">Scott Smallbeck</div>
-</div>
-
-<!-- Copyright Page -->
-<div class="copyright-page">
-    <p><strong>THE FEED: Glitch Protocol</strong></p>
-    <p>Copyright &copy; 2026 Scott Smallbeck</p>
-    <p>All rights reserved.</p>
-    <p>The characters and events portrayed in this book are fictitious.</p>
-    <p>Any similarity to real persons, living or dead, is coincidental.</p>
-    <br><br>
-    <p><strong>ISBN-13:</strong> 9781234567890</p>
-    <p><strong>ISBN-10:</strong> 1477123456</p>
-</div>
-
-<!-- Dedication -->
-<div class="dedication">
-    <p>To everyone fighting a battle that wasn't in the code,</p>
-    <p>finding the strength to be "unoptimized,"</p>
-    <p>and choosing to be fully, messily, and courageously alive.</p>
-    <p><em>Keep looking for the trees.</em></p>
-</div>
-
-<!-- Epigraph -->
-<div class="epigraph">
-    <p>"It has robbed us of the sense of space and of the sense of touch, it has blurred every human relation and narrowed down love to a carnal act, it has paralyzed our bodies and our wills, and now it compels us to worship it.</p>
-    <p>The Machine develops, but not on our lines.<br>
-    The Machine proceeds, but not to our goal.</p>
-    <p>We only exist as the blood corpuscles that course through its arteries, and if it could work without us, it would let us die."</p>
-    <p class="epigraph-source">&mdash; E.M. Forster, <em>The Machine Stops</em> (1909)</p>
-</div>
-
-<!-- Main Content -->
-<div class="content">
 <div class="chapter">
 <h2 class="chapter-title">Chapter One: The Tree</h2>
 <p>Maya's day began at 6:47 AM, not morning, but "Engagement Window 1." Her Companion, voice calibrated to frequencies that triggered dopamine release, announced her metrics while she was still in SleepSync: "<em>Good morning, Maya. Your followers are up twelve percent. Your engagement rate is ninety-four percent. You are performing optimally.</em>"</p>
@@ -1460,7 +1554,8 @@ em {
 <p><em>For more information about The Feed trilogy, visit:</em> <em>wwww.smallbeck.com</em></p>
 </div>
 
-</div>
 
+        
+    </div>
 </body>
 </html>
