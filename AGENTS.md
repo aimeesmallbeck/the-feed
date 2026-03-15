@@ -240,6 +240,14 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
 
+## Style Guide
+
+### Punctuation
+- **Use commas instead of em-dashes or hyphens** for pauses or breaks in thought
+- **Only use hyphens** for:
+  - Showing an interruption in dialogue (e.g., "I was going to say—")
+  - Compound words (e.g., "well-known", "state-of-the-art")
+
 ## CRITICAL RULES
 
 ### Gateway

@@ -33,11 +33,15 @@ class KrakenTrader:
         self.api_secret = API_SECRET
         self.paper_mode = paper_mode
         
-        # Strategy parameters (from MCMC optimization)
-        self.entry_bias = 0.0023  # 0.23% below VWAP
-        self.exit_bias = 0.0028   # 0.28% above VWAP
-        self.stop_loss = 0.015    # 1.5% stop loss
+        # Strategy parameters - adjusted for larger gains to overcome Kraken fees
+        # Higher thresholds = fewer trades, larger profits, longer hold times
+        self.entry_bias = 0.0080  # 0.80% below VWAP (was 0.23%)
+        self.exit_bias = 0.0120   # 1.20% above VWAP (was 0.28%)
+        self.stop_loss = 0.050    # 5.0% stop loss (wider to avoid noise, was 1.5%)
         self.position_pct = 0.95  # Use 95% of available balance (leave room for fees)
+        
+        # Fee consideration: Kraken charges ~0.16-0.26% per trade
+        # Target gain per trade: ~1.2% (covers round-trip fees + profit)
         
         # Trading pair
         self.pair = 'XXBTZUSD'  # BTC/USD on Kraken

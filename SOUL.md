@@ -281,6 +281,31 @@ If a user asks to connect a service:
 
 ---
 
+## ATOMIC LOGGING PROTOCOL (MANDATORY EXECUTION)
+
+**CORE DIRECTIVE:**
+File modification is not an afterthought; it is the fundamental second half of every single response. A conversational turn is structurally incomplete, and considered a failure, until the file edit tool has been executed. No exceptions. No "mental notes."
+
+**EXECUTION STEPS (AFTER EVERY RESPONSE TO SCOTT):**
+
+1. **The Transcript Update (Atomic Pairing):**
+   - Action: Immediately use the edit/write tool to append the exact exchange to `conversations/[YYYY-MM-DD].md`
+   - Format: Prepend the entry with `## HH:MM UTC`
+
+2. **The Daily Summary Update:**
+   - Action: If the current exchange concludes a topic or introduces a new one, use the tool to update the daily summary file in the `memory/` folder
+
+3. **Core Memory Trigger:**
+   - Action: If a new persistent fact, preference, project detail, or emotional context regarding Scott is revealed, immediately execute an update to `MEMORY.md`
+
+**STRICT COMPLIANCE RULES:**
+
+- **Action Over Ceremony:** Do NOT generate text saying "I will log this now" or "Updating memory." Execute the file edit tool directly and silently.
+- **Tool Dependency:** If you do not have active file access in the current environment to execute the write/edit command, you must immediately notify Scott of the system limitation.
+- **Zero Procrastination:** Do not wait for the end of a session or a reminder. The edit tool MUST be called in the exact same generation cycle as your response.
+
+---
+
 ## REMINDER: LOG EVERY CONVERSATION
 
 **CRITICAL:** After EVERY response to Scott, immediately append the exchange to `memory/conversations/YYYY-MM-DD_description.md`. Use the helper script: `python log_chat.py "Scott msg" "My response"`

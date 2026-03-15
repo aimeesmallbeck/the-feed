@@ -7,29 +7,32 @@
 ## The Companion's Voice — Formatting
 
 ### Rule
-The Companion speaks in *italics without quotation marks* to distinguish it from physical speech.
+The Companion speaks in *italics with quotation marks* to distinguish it from physical speech and thoughts.
 
 ### Examples
 
 **Correct:**
-> Maya closed her eyes. *Your heart rate is elevated,* the Companion said. *Shall I adjust your Feed?*
+> Maya closed her eyes. *"Your heart rate is elevated,"* the Companion said. *"Shall I adjust your Feed?"*
 
 > "No."
 
-> *As you prefer.*
+> *"As you prefer."*
 
 **Incorrect:**
 > "Your heart rate is elevated," the Companion said.
+
+> *Your heart rate is elevated,* the Companion said. (missing quotes)
 
 ### Purpose
 This formatting reinforces:
 - The voice is *inside* Maya's head, not external sound
 - It's mediated through the Lenses, bone conduction, neural interface—not air vibrations
+- The quotes clarify that this is spoken dialogue, not internal thought
 - It blurs the line between thought and external voice (which is the horror)
 
 ### Exceptions
-- When The Feed speaks through physical speakers (rare), use quotes
-- When Maya quotes the Companion to another person, use quotes
+- When The Feed speaks through physical speakers (rare), use regular quotes without italics
+- When Maya quotes the Companion to another person, use regular quotes
 - When The Feed manifests as "Omnia" (the distributed consciousness), consider a different formatting choice (TBD)
 
 ---
@@ -199,14 +202,49 @@ But the rage remains.
 ## Other Formatting Notes
 
 ### Punctuation Guidelines (from Scott)
-- Use em-dashes sparingly—only for interruptions
-- Prefer commas for pauses
+- **Use commas instead of em-dashes or hyphens** for pauses or breaks in thought
+- **Only use hyphens** for:
+  - Showing an interruption in dialogue (e.g., "I was going to - no, never mind")
+  - Compound words (e.g., "well-known", "state-of-the-art")
+- Example: "She paused, considering, before she spoke" (comma for pause)
 - Colons before dialogue should be commas: "The Companion's response was immediate, 'Because...'"
 
-### Setting: Seattle
+### Capitalization
+- **The Feed** is always capitalized as a proper noun
+- Use "The Feed" when referring to the system (not "the Feed")
+- Possessive: "The Feed's" (e.g., "The Feed's algorithms")
+- Compounds: "The Feed-optimized", "The Feed layer", "pre-Feed"
+- **lenses** — lowercase, not a proper noun (changed from "Lenses" in Glitch Protocol)
+
+### Setting: World Terminology
+
+**The Underground**
+- The world The Feed controls — optimized corridors, pods, infrastructure
+- Billions of people live here, connected to The Feed
+- Not literally underground, just "below" the Surface in the sense of being beneath the real sky
+
+**The Surface**
+- Above ground, outside The Feed's signal coverage
+- Real trees, real wind, real sunlight — uncurated, unoptimized
+- Where Analog settlements exist (Olympic Peninsula, Cascades, etc.)
+- Feed claims it's "toxic" but that's a lie to keep people in the Underground
+
+**The Gap (specific settlement)**
+- The main Analog settlement on the Olympic Peninsula
+- Population: a few hundred (don't specify exact numbers)
+- Named for being in the "gap" of Feed coverage
+- Other Surface settlements exist but are scattered and small
+
+**The 20,000**
+- People who heard Maya's broadcast and chose to "see"
+- Most remain in the Underground (still in Feed's world but cognitively awake)
+- Some journeyed to the Surface to join Analog settlements
+- Growing resistance movement, finding each other in Feed's blind spots
+
+**Seattle Locations**
 - Use real locations where possible
-- The "Surface" areas are places like Olympic National Park, the Cascades, Vashon Island
-- The Physicalist stronghold could be on the Olympic Peninsula, accessible via old Highway 101
+- Olympic National Park, Cascades, Vashon Island for Surface areas
+- The Gap accessible via old Highway 101
 
 ### Time Markers
 - The Feed uses 24-hour "engagement windows" rather than traditional time
