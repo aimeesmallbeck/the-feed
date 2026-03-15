@@ -65,6 +65,8 @@ Maya felt cold despite the stale warmth of the dead zone. "Who?"
 
 "Sera. Coastal cell. She's awake now, shaken but awake. She asked it about the sunset. It didn't know what she meant."
 
+The sunset. Their authentication protocol, born from a moment of unoptimized beauty that The Feed could simulate but never understand. The Feed could replicate Maya's voice, her vocabulary, her patterns of speech. But it couldn't replicate what the sunset had meant to her, the transformation from boredom to wonder, the learning to see without being told what to feel.
+
 "We need to change the codes," Maya said. "All of them."
 
 "We already have." Kael pulled a folded paper from his pocket, actual paper, handwritten, unhackable. "New authentication phrases. New meeting protocols. New extraction routes. But Maya..." He hesitated. "The Feed is learning faster than we can adapt. Every defense we create, it studies. Every pattern we establish, it predicts."

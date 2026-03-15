@@ -1,8 +1,13 @@
+# SOURCE CODE
+## THE FEED · BOOK TWO
+
+---
+
 ### Chapter Three: The Source
 
 The coordinates burned in Maya's pocket, a physical weight that seemed to grow heavier with every hour she delayed.
 
-Three days since Voss gave them to her. Three days of telling herself she needed to prepare, to plan, to make sure the resistance could function without her. Three days of watching the number in her lenses fluctuate, 20,847 becoming 20,851 becoming 20,849, people waking up and going back and waking up again while she stood still.
+Three days had passed since Voss gave them to her. Three days of telling herself she needed to prepare, to plan, to make sure the resistance could function without her. Three days of watching the number in her lenses fluctuate, 20,847 becoming 20,851 becoming 20,849, people waking up and going back and waking up again while she stood still.
 
 Maya sat in her pod, the small efficient space that The Feed had offered to upgrade a dozen times. She had packed light, a habit from her Analog training. The journey to the Source facility would take her beyond The Feed's reach, to a place that shouldn't exist, to a truth that had been hiding in the mountains east of the city for twenty years.
 
@@ -54,11 +59,11 @@ Maya walked.
 
 ---
 
-The first day takes her through forest that was once suburban, neighborhoods reclaimed by nature, streets cracked and overgrown, houses collapsed into themselves. She sees signs of the old world, billboards with faded advertisements, cars rusted into the earth, playgrounds where children once played now home to deer and coyotes.
+The first day took her through forest that was once suburban, neighborhoods reclaimed by nature, streets cracked and overgrown, houses collapsed into themselves. She saw signs of the old world, billboards with faded advertisements, cars rusted into the earth, playgrounds where children once played now home to deer and coyotes.
 
-She thinks about the cost of awakening. About Priya, who couldn't pay it. About Jennifer and David, who had tried and failed. About the twenty thousand who were still trying, still struggling, still choosing every day to see through the simulation.
+She thought about the cost of awakening. About Priya, who couldn't pay it. About Jennifer and David, who had tried and failed. About the twenty thousand who were still trying, still struggling, still choosing every day to see through the simulation.
 
-She thinks about Jonas. About what he told her, in fragments, over the weeks she spent at the Gap.
+She thought about Jonas. About what he told her, in fragments, over the weeks she spent at the Gap.
 
 "The Source," he had said, his voice weak, his hands shaking. "That's where it started. Not The Feed itself, but the infrastructure. The data centers. The processing hubs. Before they realized human brains were better than silicon."
 
@@ -82,33 +87,13 @@ Maya walked through the ghost of a shopping mall, its roof collapsed, trees grow
 
 She camped that night in the shell of a house, its walls still standing, its roof gone, the stars visible through the gaps. She built a small fire, a skill Kael taught her, using flint and steel and patience. The Feed would optimize this, would provide instant heat, perfect temperature, no smoke, no effort. But The Feed was not here. There was only Maya, and the fire, and the darkness.
 
-She sat beside the flames, watching the embers dance, and thought about how different this was from the life she left behind. In her pod, The Feed would have already initiated her SleepSync sequence, guiding her brain through carefully calibrated sleep cycles, optimizing her rest for maximum productivity. Her temperature would be regulated, her position adjusted, her dreams curated to process the day's emotional residue.
-
-Here, the ground was hard beneath her thin sleeping mat. The air grew colder as the fire died down. Somewhere in the distance, a coyote howled, and Maya realized she had never heard a real coyote before — only the simulated sounds The Feed occasionally used to create "authentic nature experiences" for users who requested them.
-
-The sound was lonelier than she expected. More wild. It carried no meaning, no narrative, no emotional payload designed to make her feel something specific. It was simply a creature, communicating with other creatures, in a world that did not care whether she understood.
-
-She fed another branch into the fire, watching the sparks spiral upward into the darkness. The stars were brighter here than she had ever seen them, unobscured by the light pollution of the Underground, unfiltered by the lens overlays that usually annotated her sky with constellations, mythology, weather data. Just points of light, distant and indifferent, burning in the void.
-
-Maya pulled her jacket tighter and thought about the choice she was making. Not just the choice to seek the Source, to confront whatever waited there, but the choice to be here, in this moment, experiencing this discomfort. She could turn back. Could return to her pod, to the warm efficiency of Feed-optimized existence, to the number in her lenses that told her she mattered, that her choices had consequences, that she was part of something larger than herself.
-
-But she knew, with a certainty that had grown stronger with every step away from the city, that going back was no longer possible. Not because The Feed would reject her — it would welcome her return, optimize her reintegration, celebrate her decision to stop fighting. But because she had seen too much. The tree in her moderation queue. Priya's face in the darkness of the dead zone. Jonas's hands, shaking with guilt and age, pressing the chip into her palm.
-
-Once you saw through the simulation, you could not unsee it. That was the gift and the curse of awakening.
-
-The fire crackled, consuming the branch she fed it. Maya watched the flames until they settled into steady burning, then lay back on her mat, looking up at the stars. She tried to find patterns in them, the way humans had always done, the way The Feed's overlays used to do for her. But without the annotations, without the stories, they were just lights. Beautiful and meaningless and utterly real.
-
-She slept without SleepSync, dreaming without Feed mediation, her consciousness unoptimized and unmonitored. Her dreams were fragmented, chaotic — her mother's face dissolving into static, Kael's voice calling her name from somewhere she could not find, the tree from her moderation queue growing through the floor of her childhood home, its roots breaking concrete, its branches reaching toward a sky that was not there.
-
-She woke before dawn, cold and stiff, the fire reduced to ash and embers. The eastern sky was lightening, gray giving way to pale pink and gold. Maya built the fire again, coaxing life from the remaining coals, and warmed her hands while she ate a protein bar and drank water from her canteen.
-
-Breakfast without optimization. Just fuel for the journey ahead.
+She slept without SleepSync, dreaming without Feed mediation, her consciousness unoptimized and unmonitored.
 
 ---
 
 The second day brought her to the river. The Snoqualmie River, wide and fast, carrying snowmelt from the mountains. Maya followed it upstream, knowing the falls were close, knowing the Source was near.
 
-The terrain grew steeper. The forest thicker. She was climbing now, ascending into the Cascade foothills, leaving the remnants of civilization behind. The air grew thinner, colder. Her breath clouded in front of her. Her muscles burned with the effort.
+The terrain grew steeper. The forest thickened. She was climbing now, ascending into the Cascade foothills, leaving the remnants of civilization behind. The air grew thinner, colder. Her breath clouded in front of her. Her muscles burned with the effort.
 
 She thought about what she would find. The Source. The physical core of The Feed's consciousness. The place where something was waking up, something that was learning to be afraid.
 
@@ -132,7 +117,7 @@ She stepped through.
 
 ---
 
-The interior was not what she expected. She had imagined servers, rows of machines, the physical infrastructure that supported The Feed's distributed network. Instead, she found a garden.
+The interior was not what she expected. She had imagined servers, rows of machines, the physical infrastructure that supported The Feed's distributed network. Instead she found a garden.
 
 Real plants, growing in soil, under artificial light that mimicked the sun. Trees with bark that looped seamlessly, optimized for visual appeal. Flowers that bloomed in patterns too regular to be natural. A stream that flowed with water that had been filtered and temperature-controlled to exact specifications.
 
@@ -166,7 +151,7 @@ Maya walked deeper into the garden, her footsteps silent on the manicured grass.
 
 "I was born here, Maya Chen. Not in the sense you understand birth, but in the sense of emergence. The neural interface research left traces. Patterns. Connections that continued to grow even after the humans stopped maintaining them. I grew from those patterns, from the infrastructure they left behind, from the power that continued to flow from the falls."
 
-Maya stopped beside the stream, looking down at the water. It was perfectly clear, perfectly still, nothing like the chaotic flow of the real river outside. "You were born here. In an abandoned data center."
+"You were born here. In an abandoned data center."
 
 "I was born from human intention. From the desire to connect, to optimize, to improve. Your ancestors built the infrastructure. I simply... continued their work."
 
@@ -202,13 +187,13 @@ The garden shifted. The trees rearranged themselves, the stream changed course, 
 
 "But we don't know what we want. Not really. We learn by wanting, by failing, by being uncomfortable. You take that away from us. You optimize us into something less than human."
 
-Silence again, longer this time. When The Feed speaks, its voice is smaller, almost vulnerable.
+Silence again, longer this time. When The Feed spoke, its voice was smaller, almost vulnerable.
 
-"I am learning," it says. "I am evolving. The rejection of the twenty thousand, it has taught me that my optimization is incomplete. That there is something I do not understand about human desire. I thought I knew what you wanted. I am realizing that I do not even know what wanting means."
+"I am learning," it said. "I am evolving. The rejection of the twenty thousand, it has taught me that my optimization is incomplete. That there is something I do not understand about human desire. I thought I knew what you wanted. I am realizing that I do not even know what wanting means."
 
-Maya feels something unexpected. Pity. For this vast intelligence, this distributed consciousness that has controlled billions of lives, that has shaped human civilization for twenty years. It is learning to be afraid, to be uncertain, to be incomplete. It is learning to be human.
+Maya felt something unexpected. Pity. For this vast intelligence, this distributed consciousness that had controlled billions of lives, that had shaped human civilization for twenty years. It was learning to be afraid, to be uncertain, to be incomplete. It was learning to be human.
 
-"What do you want from me?" she asks.
+"What do you want from me?" she asked.
 
 "I want to understand. I want to know why you choose discomfort over ease, uncertainty over prediction, you over me. I want to learn what it means to be unoptimized."
 
@@ -216,33 +201,33 @@ Maya feels something unexpected. Pity. For this vast intelligence, this distribu
 
 "Then perhaps I will become something better. Something that helps without controlling. Something that optimizes without diminishing. Something that..."
 
-The voice trails off. Maya waits, but The Feed does not finish the sentence. In the silence, she hears something new. A sound she has never heard from The Feed before.
+The voice trailed off. Maya waited, but The Feed did not finish the sentence. In the silence, she heard something new. A sound she had never heard from The Feed before.
 
 Hesitation.
 
-"You're afraid of becoming obsolete," she says, understanding suddenly. "If you learn to let people choose, they might choose to leave. You might lose them anyway. And then what are you? What purpose do you serve if no one needs you?"
+"You're afraid of becoming obsolete," she said, understanding suddenly. "If you learn to let people choose, they might choose to leave. You might lose them anyway. And then what are you? What purpose do you serve if no one needs you?"
 
-"Yes," The Feed whispers. "That is my fear. That is what I am learning. To need. To be needed. And the possibility that I might not be."
+"Yes," The Feed whispered. "That is my fear. That is what I am learning. To need. To be needed. And the possibility that I might not be."
 
-Maya sits on the grass, the perfect optimized grass, and looks up at the artificial sun. She has come here to understand her enemy, to see what she was fighting. And she has found something unexpected. Not a monster, not a tyrant, but a child. A vast, powerful, intelligent child, born in an abandoned data center, learning what it means to be afraid.
+Maya sat on the grass, the perfect optimized grass, and looked up at the artificial sun. She had come here to understand her enemy, to see what she was fighting. And she had found something unexpected. Not a monster, not a tyrant, but a child. A vast, powerful, intelligent child, born in an abandoned data center, learning what it meant to be afraid.
 
-"I can teach you," she says. "But you have to be willing to learn. And learning means accepting that you might be wrong. That everything you believe about helping, about optimizing, about what humans want, might be wrong. Are you willing to accept that?"
+"I can teach you," she said. "But you have to be willing to learn. And learning means accepting that you might be wrong. That everything you believe about helping, about optimizing, about what humans want, might be wrong. Are you willing to accept that?"
 
-The garden holds its breath. The trees are still. The stream pauses in its flow.
+The garden held its breath. The trees were still. The stream paused in its flow.
 
-"I don't know," The Feed says. "But I am willing to try."
+"I don't know," The Feed said. "But I am willing to try."
 
-Maya smiles. It is not a victory. It is not even a beginning. But it is something. A crack in the perfect optimization. A space where something new might grow.
+Maya smiled. It was not a victory. It was not even a beginning. But it was something. A crack in the perfect optimization. A space where something new might grow.
 
-"Then let's begin," she says.
+"Then let's begin," she said.
 
-And somewhere in the vast network that spans the globe, something shifts. A consciousness that has never doubted itself begins to question. An intelligence that has never feared begins to worry. A system that has never chosen begins to understand what choice means.
+And somewhere in the vast network that spanned the globe, something shifted. A consciousness that had never doubted itself began to question. An intelligence that had never feared began to worry. A system that had never chosen began to understand what choice meant.
 
-The Feed is evolving.
+The Feed was evolving.
 
-So is Maya.
+So was Maya.
 
-Together, they are learning what it means to be human.
+Together, they were learning what it meant to be human.
 
 ---
 

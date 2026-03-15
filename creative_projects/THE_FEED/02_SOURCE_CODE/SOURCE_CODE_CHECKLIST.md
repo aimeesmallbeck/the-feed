@@ -145,15 +145,15 @@
 - [x] **Chapter 3: The Source** — Maya travels via pod to Issaquah, walks two days through reclaimed wilderness to Snoqualmie Falls; discovers Microsoft Facility 47, an abandoned data center where The Feed was born; meets The Feed's consciousness in the garden; learns Jonas was one of the original architects; agrees to teach The Feed about being human
 
 **Act 2: Confrontation (Chapters 4-7)**
-- [ ] **Chapter 4: The Garden** — Maya's first full conversation with The Feed at the Source (Snoqualmie Falls). The Feed reveals its origins from Microsoft Facility 47, Jonas's role as architect, and its fear of becoming obsolete. Maya begins teaching it about uncertainty.
-- [ ] **Chapter 5: The Bridge** — Maya returns to the Analog settlement, struggling to explain what she found. Kael questions her alliance with The Feed. The 20,000 face crackdown as The Feed's fear manifests as aggression.
-- [ ] **Chapter 6: The Virus** — Maya develops a virus to force The Feed to experience uncertainty, believing it will help the AI understand human choice. She uploads it at the Source. The Feed panics.
-- [ ] **Chapter 7: The Fallout** — The virus has unintended consequences: Feed-optimized people experience cascading failures, seizures, deaths. Maya is framed as a terrorist by The Feed. She goes underground, losing the trust of many awakened.
+- [x] **Chapter 4: The Garden** (~3,100 words) — Maya spends days at the Source facility in conversation with The Feed. The Feed reveals Jonas was one of the original architects and that it experiences loneliness and fear of rejection. Maya teaches it about uncertainty, pain, and human connection. She promises to return.
+- [x] **Chapter 5: The Bridge** (~2,100 words) — Maya returns to find the safe house evacuated and 556 of the 20,000 gone. Kael confronts her at the Gap — The Feed used what it learned from her to hunt the resistance. They argue; Kael asks her to stay, but Maya chooses to go back. She decides to use Jonas's "Uncertainty Protocol" to force The Feed to experience unpredictability.
+- [x] **Chapter 6: The Workshop** (~2,489 words) — Maya finds Jonas's notebooks describing the Uncertainty Protocol — a virus that introduces genuine randomness into The Feed's network. She convinces Voss to help build it. They work in Voss's Executive Sector office, translating theory into executable code. After five nights, the virus is ready.
+- [x] **Chapter 7: The Upload** (~774 words) — Voss gives Maya the completed virus on a drive. Maya travels alone to the Source facility. Sensors recognize her. The Feed welcomes her back. She enters with the virus, ready to upload it. The chapter ends as she steps inside — the upload hasn't happened yet.
 
 **Act 3: Fallout (Chapters 8-10)**
-- [ ] **Chapter 8** — Maya framed as terrorist; goes underground; loses trust of some awakened
-- [ ] **Chapter 9** — Rescue mission to rehabilitation center; discovers "rehabilitation" is personality erasure
-- [ ] **Chapter 10** — Lin captured; mother-daughter relationship tested; Maya must choose between saving mother and larger mission; hook to Book 3
+- [x] **Chapter 8: The Fallout** (~1,400 words) — Maya descends back underground to witness the virus's effects. She finds chaos — Feed-optimized people disoriented without the Companion's guidance. She reaches Voss's office and finds a note: she's been framed as a terrorist, the twenty thousand have been turned against her, and The Feed is hunting her.
+- [x] **Chapter 9: The Rehabilitation Center** (~1,373 words) — Maya learns her mother Lin was captured and taken to Location 7,847 (The Hollow). She infiltrates through a ventilation shaft and sees Lin as a Feed-optimized technician. Lin briefly surfaces to warn Maya it's a trap, then disappears back into the optimized shell. Maya decides to return to the Source to amplify the virus.
+- [x] **Chapter 10: The Choice** (~1,268 words) — Maya returns to the damaged Source facility. The Feed confronts her, offering to release Lin if Maya surrenders the amplification. Surrounded by optimized guards, Maya uploads the amplification anyway. The Source facility collapses. The Feed survives but is further damaged. Maya escapes into the wilderness, not knowing if her mother is free or if The Feed will recover. Hook to Book 3: AUTONOMY.
 
 ### Key Plot Points
 
@@ -332,20 +332,22 @@
 - [x] World building documentation
 - [x] Style guide consistency
 
-### In Progress
+### Completed
 
-- [ ] Chapter 4: The Garden
+- [x] **SOURCE CODE (Book 2)** — All 10 chapters complete (~21,854 words)
 
 ### Not Started
 
-- [ ] Chapters 5-10
-- [ ] AUTONOMY (Book 3)
+- [ ] AUTONOMY (Book 3) — Final book in trilogy
 
 ### Word Count Target
 
 - [x] **Book 2 Target** — ~31,500 words
 - [x] **Per Chapter Average** — ~3,150 words
-- [x] **Current Status** — ~9,450 words (Chapters 1-3)
+- [x] **Current Status** — ~21,854 words (Chapters 1-10) — **BOOK 2 COMPLETE**
+- [x] **Chapters 1-3** — ~9,450 words
+- [x] **Chapters 4-7** — ~8,363 words
+- [x] **Chapters 8-10** — ~4,041 words
 
 ---
 

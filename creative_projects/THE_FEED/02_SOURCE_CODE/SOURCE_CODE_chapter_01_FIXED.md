@@ -97,7 +97,7 @@ Maya had started a revolution without meaning to. Now she had to figure out how 
 
 The safe house had no windows, no natural light, no connection to The Feed's carefully curated environment. It existed in a blind spot, a gap in the network coverage that the Analogs had discovered and fortified. Maya had learned to find such places, to navigate by the absence of signal rather than its presence. It was like learning to see in negative space.
 
-Kael dismissed the other Analogs with a gesture, and they retreated to the far corners of the room, giving Maya and Priya space.
+Kael dismissed the other Analogs with a gesture, and they retreated to the far corners of the room, giving Maya and Priya space. Privacy was a currency here, respected because it was so rare. In The Feed-optimized world, privacy was a setting you toggled, an illusion maintained by algorithms. Here, it was created by physical distance and the simple fact that no one was watching.
 
 "Tell me exactly what it said," Kael said, his voice low. "Word for word."
 
