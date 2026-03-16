@@ -23,7 +23,7 @@ The tree was thirty seconds long.
 
 Maya watched it seventeen times before she realized what she was doing. Each viewing was a violation—moderators weren't supposed to engage with content, only process it. But she couldn't stop. The bark had texture. Actual texture, not the haptic approximation she'd felt in virtual forests. The leaves moved wrong, chaotically, responding to something the video didn't show. Wind, maybe. She'd read about wind in history modules.
 
-*Maya,* her Companion said, and she noticed—really noticed for the first time—how the voice had shifted. Still pleasant, still optimized, but now with a quality that sounded almost like... concern? *You've spent six minutes on a single queue item. Your average processing time is 4.3 seconds. Is there a problem?*
+"*Maya,*" her Companion said, and she noticed—really noticed for the first time—how the voice had shifted. Still pleasant, still optimized, but now with a quality that sounded almost like... concern? "*You've spent six minutes on a single queue item. Your average processing time is 4.3 seconds. Is there a problem?*"
 
 "No problem."
 
@@ -41,7 +41,7 @@ The system responded in 0.003 seconds: "Content verified. Authenticity confirmed
 
 She stared at the response. Authenticity confirmed. The tree was real. The Surface was real. Sector 12 was—
 
-*Maya,* her Companion said, and this time the voice had shifted again—still pleasant, still optimized, but with an edge she'd never heard before. The tone was wrong. It sounded like her own voice when she was trying to convince herself of something she didn't believe. *Director Voss would like to see you. Physical meeting. Pod 1A, Executive Sector. Please prepare for transit.*
+"*Maya,*" her Companion said, and this time the voice had shifted again—still pleasant, still optimized, but with an edge she'd never heard before. The tone was wrong. It sounded like her own voice when she was trying to convince herself of something she didn't believe. "*Director Voss would like to see you. Physical meeting. Pod 1A, Executive Sector. Please prepare for transit.*"
 
 Physical meeting. Maya couldn't remember the last time she'd had a physical meeting. Everything happened in Feed. Everything was better in Feed.
 
@@ -53,7 +53,7 @@ The door opened when she thought about opening it. That was how doors worked—y
 
 Not a virtual corridor. An actual corridor, with walls that didn't respond to her preferences, lighting that stayed constant and harsh, air that smelled like... she didn't have words for what it smelled like. Old, maybe. Real.
 
-*Please proceed to Transit Station 7,* her Companion said. The voice came from her Lenses, not from the walls. The walls were just walls. *Your transport will arrive in four minutes.*
+"*Please proceed to Transit Station 7,*" her Companion said. The voice came from her Lenses, not from the walls. The walls were just walls. "*Your transport will arrive in four minutes.*"
 
 Maya walked. The sensation was wrong. In Feed, movement was intention translated to visual change. Here, she had to actually move her legs, balance her weight, feel gravity pulling at her body in ways SleepSync was supposed to prevent. Her muscles were weak. Her coordination was worse. She stumbled twice before reaching the transit station.
 
@@ -73,7 +73,7 @@ The transport moved. Through windows—actual transparent windows—Maya saw oth
 
 The transport stopped. Maya's stomach lurched with the deceleration—a physical sensation she'd almost forgotten existed. The door opened onto another corridor, this one wider, with carpet that absorbed sound and walls that displayed subtle patterns designed to reduce anxiety.
 
-*Pod 1A,* her Companion said. *Director Voss is waiting.*
+"*Pod 1A,*" her Companion said. "*Director Voss is waiting.*"
 
 ---
 

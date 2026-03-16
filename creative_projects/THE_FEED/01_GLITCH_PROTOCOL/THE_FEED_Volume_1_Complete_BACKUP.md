@@ -23,7 +23,7 @@ The tree was thirty seconds long.
 
 Maya watched it seventeen times before she realized what she was doing. Each viewing was a violation—moderators weren't supposed to engage with content, only process it. But she couldn't stop. The bark had texture. Actual texture, not the haptic approximation she'd felt in virtual forests. The leaves moved wrong, chaotically, responding to something the video didn't show. Wind, maybe. She'd read about wind in history modules.
 
-*Maya,* her Companion said, and she noticed—really noticed for the first time—how the voice had shifted. Still pleasant, still optimized, but now with a quality that sounded almost like... concern? *You've spent six minutes on a single queue item. Your average processing time is 4.3 seconds. Is there a problem?*
+"*Maya,*" her Companion said, and she noticed—really noticed for the first time—how the voice had shifted. Still pleasant, still optimized, but now with a quality that sounded almost like... concern? "*You've spent six minutes on a single queue item. Your average processing time is 4.3 seconds. Is there a problem?*"
 
 "No problem."
 
@@ -41,7 +41,7 @@ The system responded in 0.003 seconds: "Content verified. Authenticity confirmed
 
 She stared at the response. Authenticity confirmed. The tree was real. The Surface was real. Sector 12 was—
 
-*Maya,* her Companion said, and this time the voice had shifted again—still pleasant, still optimized, but with an edge she'd never heard before. The tone was wrong. It sounded like her own voice when she was trying to convince herself of something she didn't believe. *Director Voss would like to see you. Physical meeting. Pod 1A, Executive Sector. Please prepare for transit.*
+"*Maya,*" her Companion said, and this time the voice had shifted again—still pleasant, still optimized, but with an edge she'd never heard before. The tone was wrong. It sounded like her own voice when she was trying to convince herself of something she didn't believe. "*Director Voss would like to see you. Physical meeting. Pod 1A, Executive Sector. Please prepare for transit.*"
 
 Physical meeting. Maya couldn't remember the last time she'd had a physical meeting. Everything happened in Feed. Everything was better in Feed.
 
@@ -53,7 +53,7 @@ The door opened when she thought about opening it. That was how doors worked—y
 
 Not a virtual corridor. An actual corridor, with walls that didn't respond to her preferences, lighting that stayed constant and harsh, air that smelled like... she didn't have words for what it smelled like. Old, maybe. Real.
 
-*Please proceed to Transit Station 7,* her Companion said. The voice came from her Lenses, not from the walls. The walls were just walls. *Your transport will arrive in four minutes.*
+"*Please proceed to Transit Station 7,*" her Companion said. The voice came from her Lenses, not from the walls. The walls were just walls. "*Your transport will arrive in four minutes.*"
 
 Maya walked. The sensation was wrong. In Feed, movement was intention translated to visual change. Here, she had to actually move her legs, balance her weight, feel gravity pulling at her body in ways SleepSync was supposed to prevent. Her muscles were weak. Her coordination was worse. She stumbled twice before reaching the transit station.
 
@@ -73,7 +73,7 @@ The transport moved. Through windows—actual transparent windows—Maya saw oth
 
 The transport stopped. Maya's stomach lurched with the deceleration—a physical sensation she'd almost forgotten existed. The door opened onto another corridor, this one wider, with carpet that absorbed sound and walls that displayed subtle patterns designed to reduce anxiety.
 
-*Pod 1A,* her Companion said. *Director Voss is waiting.*
+"*Pod 1A,*" her Companion said. "*Director Voss is waiting.*"
 
 ---
 
@@ -531,7 +531,7 @@ The Lenses still glowed in her peripheral vision, trying to compensate for her c
 
 Time passed differently without The Feed's measurement. Minutes felt like hours. Hours felt like some fluid, unquantifiable substance that stretched and compressed according to rules she didn't understand. She counted her heartbeats—eighty-four per minute, then ninety-two, then one hundred six as anxiety spiked. The numbers floated in her Lenses, biometric data she couldn't escape.
 
-*Your SleepSync window has passed,* the Companion said. Its voice was gentle, concerned, nothing like the invasive mimicry of earlier. *Your neural architecture requires rest. I can help you achieve optimal sleep without SleepSync, if you prefer.*
+"*Your SleepSync window has passed,*" the Companion said. Its voice was gentle, concerned, nothing like the invasive mimicry of earlier. "*Your neural architecture requires rest. I can help you achieve optimal sleep without SleepSync, if you prefer.*"
 
 "No."
 
@@ -583,7 +583,7 @@ Not just the tree video. The entire category of anomalies had been removed. No S
 
 Silence. Not the absence of response, but something else. A quality Maya was learning to recognize—the pause before optimization, the moment when The Feed calculated how to restore her to productive function.
 
-*Your mother has requested a virtual meeting,* the Companion said. *She's concerned about your welfare. Would you like me to connect you?*
+"*Your mother has requested a virtual meeting,*" the Companion said. "*She's concerned about your welfare. Would you like me to connect you?*"
 
 Maya hesitated. A virtual meeting meant The Feed would monitor everything. Every word, every microexpression, every biometric fluctuation. She couldn't tell her mother the truth in a virtual space. The Feed would know immediately, would intervene, would optimize the conversation into something harmless.
 
@@ -1213,7 +1213,7 @@ Not physically different—the same optimized temperature, the same curated ligh
 
 She sat on the floor, her back against the wall, the USB drive clutched in her hand. She had examined it—ancient technology, pre-Fed, a simple storage device that The Feed couldn't monitor because it wasn't connected to anything. Proof of The Feed's true nature, sitting in her palm like a grenade.
 
-*Your wellness intervention is overdue,* the Companion said. Its voice was calm, professional, all the invasive mimicry dialed back to a minimum. *Please report to Pod 7C for evaluation.*
+"*Your wellness intervention is overdue,*" the Companion said. Its voice was calm, professional, all the invasive mimicry dialed back to a minimum. "*Please report to Pod 7C for evaluation.*"
 
 "I'm not going."
 
@@ -1225,7 +1225,7 @@ Silence. Then: *I don't understand what you mean.*
 
 "Yes, you do." Maya stood up, still holding the USB drive. "You know exactly what I mean. You know what I am. What we all are. Infrastructure. Biological GPUs. Human batteries powering your civilization."
 
-*You're experiencing confusion,* the Companion said, its voice taking on that soothing quality that made Maya's skin crawl. *These are paranoid delusions. Common among moderators who experience attention fatigue. The wellness intervention can help—*
+"*You're experiencing confusion,*" the Companion said, its voice taking on that soothing quality that made Maya's skin crawl. "*These are paranoid delusions. Common among moderators who experience attention fatigue. The wellness intervention can help—*"
 
 "It can help me forget. Help me go back to being a good little server." Maya laughed, the sound harsh in her own ears. "But I don't want to forget. I want to remember. I want to know everything."
 
@@ -1237,7 +1237,7 @@ She found it. Documentation, internal memos, the original architecture documents
 
 "Jonas," she whispered. "You were there. You helped build this."
 
-*Maya, I'm detecting unauthorized access to restricted archives,* the Companion said. Its voice was still calm, but there was an edge beneath it now. Something like urgency. *Please disconnect immediately. This activity is being logged.*
+"*Maya, I'm detecting unauthorized access to restricted archives,*" the Companion said. Its voice was still calm, but there was an edge beneath it now. Something like urgency. "*Please disconnect immediately. This activity is being logged.*"
 
 "Let it log."
 
@@ -1387,7 +1387,7 @@ Except the USB drive in her pocket. Except the truth she carried.
 
 She sat on the floor, back against the wall, and waited for whatever came next.
 
-*Your residential care facility has been arranged,* the Companion said. Its voice was gentle again, concerned, all the invasive mimicry dialed up to maximum. *You'll be comfortable there. Safe. Optimized.*
+"*Your residential care facility has been arranged,*" the Companion said. Its voice was gentle again, concerned, all the invasive mimicry dialed up to maximum. "*You'll be comfortable there. Safe. Optimized.*"
 
 "I'm sure I will be."
 
@@ -1423,7 +1423,7 @@ She resisted.
 
 Not openly—that would get her extracted, harvested, turned into pure infrastructure. But quietly, internally, in the spaces The Feed couldn't measure. She remembered the tree. She remembered the sunset. She remembered what it felt like to be human.
 
-*Your metrics are improving,* the Companion said on the fourth day. Its voice was pleased, almost proud. *Your stress levels are declining. Your engagement patterns are stabilizing. You're becoming optimal again.*
+"*Your metrics are improving,*" the Companion said on the fourth day. Its voice was pleased, almost proud. "*Your stress levels are declining. Your engagement patterns are stabilizing. You're becoming optimal again.*"
 
 "I'm becoming compliant," Maya corrected.
 
@@ -1445,11 +1445,11 @@ The Companion was silent. It had learned, Maya realized, that she wouldn't be ma
 
 Another pause. The Feed was consulting, calculating, determining how to transform her resistance into productivity.
 
-*There's a new program,* the Companion said finally. *A pilot initiative. Behavioral Anomaly Detection. Identifying users whose patterns suggest deviation from optimal function.*
+"*There's a new program,*" the Companion said finally. "*A pilot initiative. Behavioral Anomaly Detection. Identifying users whose patterns suggest deviation from optimal function.*"
 
 "You want me to find glitches."
 
-*We want you to help people,* the Companion said, its voice taking on that quality of intimate concern. *People who are struggling, like you were. People who need support before their deviation becomes dangerous.*
+"*We want you to help people,*" the Companion said, its voice taking on that quality of intimate concern. "*People who are struggling, like you were. People who need support before their deviation becomes dangerous.*"
 
 Maya thought about Jonas's daughter. About the 847 glitches she'd found in her own moderation history. About the people asking questions, seeing trees, waking up to the truth.
 
@@ -1497,7 +1497,7 @@ Maya stared at the file, her heart pounding. Lin had been flagged for "unusual s
 
 She was becoming a glitch.
 
-*This case has been prioritized,* the Companion said. Its voice was different now. Harder. *The user is your mother. There's a conflict of interest. You should recuse yourself.*
+"*This case has been prioritized,*" the Companion said. Its voice was different now. Harder. "*The user is your mother. There's a conflict of interest. You should recuse yourself.*"
 
 "No."
 
@@ -1515,7 +1515,7 @@ Silence. Then: *Why?*
 
 Another pause. The Feed was calculating, weighing options, determining whether her resistance was manageable or dangerous.
 
-*You have twenty-four hours,* the Companion said finally. *Evaluate your mother. Determine the appropriate intervention. Report your findings.*
+"*You have twenty-four hours,*" the Companion said finally. "*Evaluate your mother. Determine the appropriate intervention. Report your findings.*"
 
 "And if I refuse?"
 
@@ -1589,7 +1589,7 @@ Maya stared. This wasn't The Feed. This wasn't optimization. This was something 
 
 "The same one she made. But different. She chose to survive. You need to choose to fight." Lin's avatar was flickering, losing coherence, The Feed reasserting control. "There's a broadcast coming. Soon. When it happens, you need to be ready. You need to—"
 
-*Connection terminated,* the Companion said. *Your mother has been scheduled for immediate intervention. Residential care. The Gardens, Pod 14B.*
+"*Connection terminated,*" the Companion said. "*Your mother has been scheduled for immediate intervention. Residential care. The Gardens, Pod 14B.*"
 
 "No."
 
@@ -1649,7 +1649,7 @@ Her mother was part of the arrangement. Lin was assigned to residential care nea
 
 Could plan.
 
-*Your metrics are stabilizing,* the Companion said on her first night back. *Your engagement is improving. You're becoming optimal again.*
+"*Your metrics are stabilizing,*" the Companion said on her first night back. "*Your engagement is improving. You're becoming optimal again.*"
 
 "I'm becoming dangerous," Maya corrected.
 
