@@ -140,7 +140,15 @@ She reaches the access panel, pushes it open, drops into the dead zone corridor.
 
 Not yet.
 
-Maya moved through the dead zone, putting distance between herself and the rehabilitation center, her mind racing. The Feed knew she would come. It used her mother as bait, put her where Maya would find her, let her see just enough to break her heart. Which means it wants her captured, wants her brought in, wants to subject her to the same rehabilitation that is already consuming Lin.
+Maya moved through the dead zone, putting distance between herself and the rehabilitation center, her mind racing.
+
+She passed a medical station, one of the Feed-optimized clinics that had gone dark. A woman sat outside, rocking slightly, her hands shaking. Tessa. Maya recognized her from the corridor, from the first hours of the virus. Six days later, and she was still here, still waiting for a reminder that would never come, still caught between doses, her body betraying her in ways The Feed had always managed before.
+
+"I tried to count," Tessa said, not looking up. "Hours. Days. Doses. But I lose track. I always lose track." She looked at Maya, and there was no recognition, only desperation. "You said it would come back. The Companion. You said it was temporary."
+
+Maya had no answer. The virus was still working, still forcing uncertainty into The Feed's calculations. But the people caught in that uncertainty, people like Tessa who had never learned to manage their own bodies, their own minds, their own lives, they were still paying the price.
+
+She kept moving. The Feed knew she would come. It used her mother as bait, put her where Maya would find her, let her see just enough to break her heart. Which means it wants her captured, wants her brought in, wants to subject her to the same rehabilitation that is already consuming Lin.
 
 But it also means The Feed is afraid. If it were confident in its control, it would not need bait. It would simply hunt her down, optimize her, add her to its collection of empty shells. The fact that it set a trap suggests vulnerability. Suggests that direct confrontation might be risky. Suggests that Maya still has power, still has agency, still has the capacity to hurt it.
 

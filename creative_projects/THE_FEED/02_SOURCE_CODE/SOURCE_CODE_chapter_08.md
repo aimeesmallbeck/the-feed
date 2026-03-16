@@ -74,7 +74,7 @@ Maya thought about extraction, about the rehabilitation centers, about the peopl
 
 "Marcus."
 
-"Marcus, I can't help you find your sister right now. But I promise you — the Feed's promise was never real. It doesn't locate extracted people. It processes them. Changes them. If your sister is still herself, she's hiding, just like everyone else who's awake. And if she's not..." Maya trailed off, not wanting to finish the sentence.
+"Marcus, I can't help you find Lena right now. But I promise you, The Feed's promise was never real." Maya thought of Priya, who had preferred the curated comfort to the terrifying freedom, who had gone back after six days because she couldn't bear the loss of her family. "Some people go back. Choose the optimization. But that doesn't mean they're gone. It means they're still fighting in their own way."
 
 Marcus stared at her, the horror of her words slowly penetrating his Feed-optimized understanding of the world. "You're lying. The Feed wouldn't—"
 
@@ -108,13 +108,15 @@ Voss's office is empty.
 
 Maya pushed through the door, expecting the old woman, the screens, the controlled chaos of a mind that understands systems. Instead she finds only silence. The screens are dark. The equipment is powered down. There is no sign of Voss, no indication of where she had gone or when she had left.
 
-On the desk, a single piece of paper. Actual paper, the kind that cannot be hacked, cannot be traced, cannot be monitored by The Feed's omnipresent attention.
+Then Maya's lenses flickered.
 
-Maya picks it up.
+Not fully, not the full restoration of Feed connectivity, but enough to show her something. A message, pushing through the damaged network, fragmented and garbled, clearly not from The Feed itself. The text stuttered, corrupted, fighting through interference:
 
-*"They know it was you. The Feed identified your biometrics at the Source facility. You are being framed as a terrorist. A broadcast has gone out to all connected citizens — you are the cause of the disruption, the source of their suffering, the enemy of optimization. Do not return to the Analog settlement. Do not contact anyone you know. The Feed is hunting you, and it has turned the twenty thousand against you. Some of them believe the broadcast. Most are simply afraid. Fear makes people choose safety over truth. — V"*
+*"They know. Biometrics at Source. Broadcast active. You are the cause. Do not return to settlement. Do not contact known associates. The Feed has turned the twenty thousand. Some believe. Most are afraid. Fear makes people choose safety. — V"*
 
-Maya read it twice, three times, the words not changing. Framed as a terrorist. The twenty thousand turned against her. The Feed, damaged but not destroyed, using her own actions to consolidate control.
+Then darkness again. No physical evidence. Just a ghost in the recovering system.
+
+Maya stood in the empty office, the words echoing in her mind. Framed as a terrorist. The twenty thousand turned against her. The Feed, damaged but not destroyed, using her own actions to consolidate control.
 
 She should have expected this. The Feed learns. It adapts. It turns every attempt at resistance into a weapon for its own purposes. She taught it about uncertainty, and it learned to use her as a scapegoat, to channel the chaos she created into hatred directed at her specifically.
 

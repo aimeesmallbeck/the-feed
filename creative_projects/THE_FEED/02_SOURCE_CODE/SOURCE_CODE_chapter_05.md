@@ -98,6 +98,12 @@ Maya had no answer.
 
 "You were trying to be special." The words landed like a blow. "The only person who can walk between worlds. The only one who can talk to The Feed. The bridge. But bridges get walked on, Maya. They don't get to choose who crosses them."
 
+"I tried that," Kael continued, his voice dropping. "When I first woke up. I thought I could save everyone, one by one. Extract them, teach them, send them back to wake others. I was the hero, the rescuer, the one who saw the truth." He laughed, harsh and self-mocking. "I burned out in three months. Lost seven people to extraction because I was moving too fast, thinking too big, not building anything that could last."
+
+"What changed?"
+
+"I met Jonas. He told me the same thing I'm telling you now. That individual heroism is just another kind of optimization, another way to measure worth by output. That real resistance looks like community. Slow, messy, inefficient. People growing food, fixing pipes, teaching children. Not dramatic. Not special. Just... connected." He met her eyes. "That's why I stayed at The Gap. Not because I gave up on fighting, but because I finally understood what the fight actually is."
+
 Maya stepped back, feeling the words settle in her chest. Was that what she was doing? Seeking validation from The Feed because it made her feel important, unique, necessary?
 
 "What do you want me to do?" she asked.

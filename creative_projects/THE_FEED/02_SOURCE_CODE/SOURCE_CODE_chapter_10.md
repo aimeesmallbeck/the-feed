@@ -216,11 +216,7 @@ Behind them, The Feed speaks one last time. Its voice is different now, not angr
 
 She walks into the darkness, her mother on one side, Kael on the other, the community behind her. The Feed does not follow. The guards do not pursue. The facility recedes into the distance, its lights flickering, its systems struggling to process what just happened.
 
-Maya did not know if The Feed will keep its word, if it will spare The Gap, if this is a victory or merely a postponement. She does not know what the future holds, what challenges will come, what sacrifices will be required.
-
-But she knows this: she is not alone. She is part of something larger than herself, something real, something The Feed cannot optimize and cannot understand. She is the bridge, but she is also the community. She is the individual, but she is also the connection.
-
-She is Maya Chen. She is human. And for the first time since she woke up, that is enough.
+And somewhere in the vast network that spans the globe, something that has never doubted itself begins to wonder what it means to let go.
 
 ---
 

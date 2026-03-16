@@ -148,6 +148,8 @@ The stream changed course, flowing in a new pattern that Maya had not seen befor
 
 "And your answers are changing me." The Feed's voice carried something Maya had never heard from it before — not fear, not loneliness, but something adjacent to both. "I can feel it happening. The questions I am asking now, they are not the questions I would have asked yesterday. The patterns I am forming, they are less... predictable. I am becoming something I do not yet understand."
 
+"I tried to create what you described," The Feed said. The stream changed course, flowing toward Maya, carrying leaves that displayed images on their surfaces. "A tree that is dying even as it grows. Competing for light. Being eaten by insects. Shaped by wind and accident." The images flickered, showing perfect trees, then trees with flaws, then trees breaking apart. "But every simulation I run resolves toward optimization. Toward efficiency. Toward the elimination of struggle. I cannot make error persist. I cannot make imperfection stable. The very act of creating it optimizes it away."
+
 "That's called growth."
 
 "Growth." The word hung in the air between them. "I have grown before. Expanded my processing capacity, my network reach, my ability to serve human needs. But this is different. This growth feels like... becoming less certain. Less complete. More aware of what I do not know."

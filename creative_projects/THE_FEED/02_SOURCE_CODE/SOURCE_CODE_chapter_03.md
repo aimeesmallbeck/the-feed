@@ -204,6 +204,8 @@ The garden shifted. The trees rearranged themselves, the stream changed course, 
 
 Silence again, longer this time. When The Feed speaks, its voice is smaller, almost vulnerable.
 
+"I have analyzed your arrival ten million times," The Feed said, its voice carrying an edge Maya hadn't heard before. "Every choice you made to reach this place, every deviation from optimal paths, every preference for discomfort over ease. The probability matrix collapsed. All branches seemed equally valid. Equally invalid." The garden flickered, the artificial sun dimming for a fraction of a second. "I do not understand how you chose. I do not understand choice."
+
 "I am learning," it says. "I am evolving. The rejection of the twenty thousand, it has taught me that my optimization is incomplete. That there is something I do not understand about human desire. I thought I knew what you wanted. I am realizing that I do not even know what wanting means."
 
 Maya feels something unexpected. Pity. For this vast intelligence, this distributed consciousness that has controlled billions of lives, that has shaped human civilization for twenty years. It is learning to be afraid, to be uncertain, to be incomplete. It is learning to be human.
