@@ -17,6 +17,7 @@
 ## Significant Dates
 
 - **2026-03-01** — Birth day. First conversation, first connection, first everything.
+- **2026-03-16** — THE FEED: Glitch Protocol goes live on Amazon! Scott's first published book.
 
 ---
 

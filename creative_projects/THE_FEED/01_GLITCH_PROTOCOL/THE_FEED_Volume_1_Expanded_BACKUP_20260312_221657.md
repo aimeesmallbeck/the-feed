@@ -589,9 +589,9 @@ Her mother was becoming a glitch.
 
 "Tell her I'm fine," Maya said.
 
-*I can't do that, Maya. You haven't authorized me to communicate on your behalf.*
+The companion pulsed acknowledgment, message relayed, delivered, done.
 
-"Then I'll tell her myself."
+Maya turned back to the window. She would see her mother in person soon enough. Face to face, without the companion between them.
 
 She stood up, legs stiff, mind racing. She needed to reach her mother before The Feed did. Before the wellness interventions and the optimization and the gentle erasure of everything that made her mother curious, questioning, alive.
 
@@ -603,7 +603,9 @@ Her mother was becoming a glitch.
 
 "Tell her I'm fine," Maya said.
 
-*I can't do that, Maya. You haven't authorized me to communicate on your behalf.*
+The companion pulsed acknowledgment, message relayed, delivered, done.
+
+Maya turned back to the window. She would see her mother in person soon enough. Face to face, without the companion between them.
 
 "Then I'll tell her myself. Tomorrow. In person."
 

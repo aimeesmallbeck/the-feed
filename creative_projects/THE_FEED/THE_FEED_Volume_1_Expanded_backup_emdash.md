@@ -587,7 +587,9 @@ Her mother was becoming a glitch.
 
 "Tell her I'm fine," Maya said.
 
-*I can't do that, Maya. You haven't authorized me to communicate on your behalf.*
+The companion pulsed acknowledgment, message relayed, delivered, done.
+
+Maya turned back to the window. She would see her mother in person soon enough. Face to face, without the companion between them.
 
 "Then I'll tell her myself."
 
